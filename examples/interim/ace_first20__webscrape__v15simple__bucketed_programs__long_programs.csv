@@ -1,0 +1,2 @@
+unitid,source,bucket,canonical_title,supporting_raw_titles,program_conf_max,program_conf_reasons
+188429,crawl,black,"African, Black and Caribbean Studies","African, Black and Caribbean Studies",70,bare_studies_name|bucket_match:black

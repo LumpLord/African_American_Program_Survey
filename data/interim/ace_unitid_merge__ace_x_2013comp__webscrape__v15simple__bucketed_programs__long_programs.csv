@@ -1,0 +1,631 @@
+unitid,source,bucket,canonical_title,supporting_raw_titles,program_conf_max,program_conf_reasons
+100751,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+102094,crawl,black,African American Studies,"African American Studies|African American Studies, Minor",70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+104151,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+104179,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+104179,crawl,mena,Middle Eastern and North African Studies,Middle Eastern and North African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena
+104179,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+106397,crawl,black,African and African American Studies,"African and African American Studies|African and African American Studies , Graduate Certificate (AASTGC)|African and African American Studies , Second or dependent major",100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+110422,crawl,ethnic,Comparative Ethnic Studies,Comparative Ethnic Studies (BA),70,degree_token|anchor_phrase|bucket_match:ethnic
+110422,crawl,ethnic,Ethnic Studies,Ethnic Studies|Ethnic Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+110422,crawl,race,"Gender, Race, Culture, Science and Technology","Gender, Race, Culture, Science and Technology Minor",70,strong_token|bucket_match:race
+110422,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110495,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+110495,crawl,ethnic,Ethnic Studies (Concentration),"Ethnic Studies is offered as a major, minor, and concentration.",100,strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+110495,crawl,ethnic,Ethnic Studies (Major),"Ethnic Studies is offered as a major, minor, and concentration.",100,strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+110495,crawl,ethnic,Ethnic Studies (Minor),"Ethnic Studies is offered as a major, minor, and concentration.",100,strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+110529,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110538,crawl,african,African Studies,African Studies Minor,90,strong_token|anchor_phrase|bucket_match:african
+110538,crawl,black,African American Studies,African American Studies Minor,70,strong_token|bucket_match:black
+110538,crawl,ethnic,"Race, Ethnicity, and Sovereignty GE","Race, Ethnicity, and Sovereignty GE Minor",70,strong_token|bucket_match:ethnic
+110547,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+110565,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+110565,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110574,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+110583,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+110592,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110592,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110608,crawl,african,"Africa, Interdisciplinary Studies","Africa, Interdisciplinary Studies",70,bare_studies_name|bucket_match:african
+110608,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+110608,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110608,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110617,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+110617,crawl,african,Certificate in African Studies,Certificate in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+110617,crawl,african,Minor in African Studies,Minor in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+110617,crawl,africana,Certificate in Pan African Studies,Certificate in Pan African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+110617,crawl,africana,Ethnic Studies (Pan African Studies),BA in Ethnic Studies (Pan African Studies),100,degree_token|degree_phrase|anchor_phrase|bucket_match:africana
+110617,crawl,africana,Minor in Pan African Studies,Minor in Pan African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+110617,crawl,africana,Pan African Studies,Pan African Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+110617,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+110617,crawl,ethnic,"Education, Equity and Social Justice (Ethnicity and Race)","MA in Education, Equity and Social Justice (Ethnicity and Race)",100,degree_token|degree_phrase|bucket_match:ethnic
+110617,crawl,ethnic,Ethnic Studies,BA in Ethnic Studies (General)|BA in Ethnic Studies (Teachers in Bilingual Education)|BA in Ethnic Studies (Teachers in Urban Settings)|Ethnic Studies|Ethnic Studies College of Social Sciences and Interdisciplinary Studies|MA in Ethnic Studies|Master of Arts in Ethnic Studies,100,anchor_phrase|compound_anchor|bucket_match:ethnic|bare_studies_name|anchor_phrase|bucket_match:ethnic|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:ethnic|degree_token|degree_phrase|anchor_phrase|bucket_match:ethnic|degree_token|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:ethnic
+110617,crawl,ethnic,Ethnic Studies (Asian American Studies),BA in Ethnic Studies (Asian American Studies),100,degree_token|degree_phrase|anchor_phrase|bucket_match:ethnic
+110617,crawl,ethnic,Ethnic Studies (Chicanx/​Latinx Studies),BA in Ethnic Studies (Chicanx/​Latinx Studies),100,degree_token|degree_phrase|anchor_phrase|bucket_match:ethnic
+110617,crawl,ethnic,Ethnic Studies (Native-​American Studies),BA in Ethnic Studies (Native-​American Studies),100,degree_token|degree_phrase|anchor_phrase|bucket_match:ethnic
+110617,crawl,ethnic,General Ethnic Studies,General Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+110617,crawl,ethnic,Minor in Ethnic Studies,Minor in Ethnic Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:ethnic
+110635,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110635,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+110644,crawl,black,African American and African Studies,African American and African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+110644,crawl,ethnic,Ethnic and Area Studies,Ethnic and Area Studies,70,bare_studies_name|bucket_match:ethnic
+110644,crawl,ethnic,Ethnic studies,Ethnic studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+110644,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110644,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110653,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110653,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110662,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110662,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110671,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+110671,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+110671,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+110671,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110680,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+110705,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+110705,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+115755,crawl,ethnic,Comparative Ethnic Studies Minor,Comparative Ethnic Studies Minor Minor,90,strong_token|anchor_phrase|bucket_match:ethnic
+115755,crawl,ethnic,Ethnic American Literatures Minor,Ethnic American Literatures Minor Minor,70,strong_token|bucket_match:ethnic
+115755,crawl,race,"Critical Race, Gender and Sexuality Studies","Critical Race, Gender and Sexuality Studies",70,bare_studies_name|bucket_match:race
+115755,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+117946,crawl,black,African American Studies,African American Studies|African American Studies Minor,70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+117946,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+120883,crawl,ethnic,Ethnic Studies,Ethnic Studies|Ethnic Studies - Minor|Ethnic Studies Minor|Ethnic Studies Program,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+122409,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+122409,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+122597,crawl,african,Minor in African Studies,Minor in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+122597,crawl,africana,Africana Studies,Africana Studies|Bachelor of Arts in Africana Studies,100,bare_studies_name|anchor_phrase|bucket_match:africana|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:africana
+122597,crawl,africana,Africana Studies BA + Ethnic Studies MA SF State Scholars Roadmap,Africana Studies BA + Ethnic Studies MA SF State Scholars Roadmap,70,degree_token|anchor_phrase|bucket_match:africana
+122597,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+122597,crawl,ethnic,Asian American Studies BA + Ethnic Studies MA SF State Scholars Roadmap,Asian American Studies BA + Ethnic Studies MA SF State Scholars Roadmap,70,degree_token|anchor_phrase|bucket_match:ethnic
+122597,crawl,ethnic,Certificate in Ethnic Studies,Certificate in Ethnic Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:ethnic
+122597,crawl,ethnic,College of Ethnic Studies,College of Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+122597,crawl,ethnic,Ethnic Studies,Ethnic Studies|Master of Arts in Ethnic Studies|Minor in Queer and Trans Ethnic Studies|Race and Resistance Studies BA + Ethnic Studies MA SF State Scholars Roadmap,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:ethnic|degree_token|anchor_phrase|compound_anchor|bucket_match:ethnic|strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+122597,crawl,ethnic,Ethnic Studies Empowerment Certificate,Ethnic Studies Empowerment Certificate,90,strong_token|anchor_phrase|bucket_match:ethnic
+122597,crawl,ethnic,Latina/​Latino Studies BA + Ethnic Studies MA SF State Scholars Roadmap,Latina/​Latino Studies BA + Ethnic Studies MA SF State Scholars Roadmap,70,degree_token|anchor_phrase|bucket_match:ethnic
+122597,crawl,race,Critical Mixed Race Studies,Critical Mixed Race Studies,70,bare_studies_name|bucket_match:race
+122597,crawl,race,Minor in Race and Resistance Studies,Minor in Race and Resistance Studies,100,strong_token|bare_studies_name|bucket_match:race
+122597,crawl,race,Race and Resistance Studies,Bachelor of Arts in Race and Resistance Studies|Race and Resistance Studies,70,bare_studies_name|bucket_match:race|degree_phrase|bucket_match:race
+122612,crawl,african,African Studies,"African Studies, Minor",90,strong_token|anchor_phrase|bucket_match:african
+122612,crawl,black,African American Studies,"African American Studies, Minor",70,strong_token|bucket_match:black
+122755,crawl,african,African Studies,African Studies Minor,90,strong_token|anchor_phrase|bucket_match:african
+122755,crawl,black,African American Studies,African American Studies|African American Studies Minor,70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+122755,crawl,race,Race and Ethnic Studies,"Sociology, Race and Ethnic Studies Concentration,",100,strong_token|anchor_phrase|compound_anchor|bucket_match:race
+122755,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+122931,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+123165,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+123554,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+123554,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+123554,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+123572,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+123572,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+126562,crawl,ethnic,Ethnic Studies,Bachelor of Arts in Ethnic Studies,100,degree_phrase|bare_studies_name|anchor_phrase|bucket_match:ethnic
+126614,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+126678,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+126678,crawl,black,African-American Studies,African-American Studies,70,bare_studies_name|bucket_match:black
+126678,crawl,ethnic,"Race, Ethnicity, and Migration Studies","Race, Ethnicity, and Migration Studies",70,bare_studies_name|bucket_match:ethnic
+126678,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+126818,crawl,ethnic,Ethnic Studies,"Ethnic Studies|Race, Gender, and Ethnic Studies",100,bare_studies_name|anchor_phrase|bucket_match:ethnic|bare_studies_name|anchor_phrase|compound_anchor|bucket_match:ethnic
+126818,crawl,ethnic,"Ethnic Studies, Plan A","Master of Arts in Ethnic Studies, Plan A",90,degree_phrase|anchor_phrase|bucket_match:ethnic
+126818,crawl,ethnic,"Ethnic Studies, Plan B","Master of Arts in Ethnic Studies, Plan B",90,degree_phrase|anchor_phrase|bucket_match:ethnic
+126818,crawl,race,"Global Race, Power, and Resistance Concentration","Global Race, Power, and Resistance Concentration",70,strong_token|bucket_match:race
+126818,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+127565,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+127565,crawl,africana,Africana Studies Degree,Africana Studies Degree,90,strong_token|anchor_phrase|bucket_match:africana
+127565,crawl,africana,"Africana Studies Major, B.A.","Africana Studies Major, B.A.",100,strong_token|degree_token|anchor_phrase|bucket_match:africana
+127565,crawl,africana,Africana Studies Minor,Africana Studies Minor Minor,90,strong_token|anchor_phrase|bucket_match:africana
+127565,crawl,africana,Explore Africana Studies Degree,Explore Africana Studies Degree,90,strong_token|anchor_phrase|bucket_match:africana
+127741,crawl,africana,Africana Studies,Africana Studies|Africana Studies BA Major BA Format In-Person Location Greeley|Africana Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana|strong_token|degree_token|anchor_phrase|bucket_match:africana|profile_dash
+127741,crawl,africana,Foundations of Africana Studies,Foundations of Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+127741,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+128771,crawl,african,African Studies,"African Studies|African Studies, Minor",90,bare_studies_name|anchor_phrase|bucket_match:african|strong_token|anchor_phrase|bucket_match:african
+128771,crawl,african,Concentration in African Studies,Concentration in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+128771,crawl,black,African-American Studies,"African-American Studies|African-American Studies, Minor",70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+128771,crawl,race,Racial Justice Certificate,Racial Justice Certificate,70,strong_token|bucket_match:race
+129020,crawl,african,African Studies,African Studies Minor,90,strong_token|anchor_phrase|bucket_match:african
+129020,crawl,africana,Africana Studies,Africana Studies (BA)|Africana Studies Minor,90,degree_token|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+129020,crawl,ethnic,"Intersectional Indigeneity, Race, Ethnicity, and Politics","Intersectional Indigeneity, Race, Ethnicity, and Politics (Graduate Certificate)",70,strong_token|bucket_match:ethnic
+129020,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+129242,crawl,black,Black Studies,Black Studies|Black Studies MInor,90,bare_studies_name|anchor_phrase|bucket_match:black|strong_token|anchor_phrase|bucket_match:black
+130493,crawl,africana,Link to Minor in Africana Studies,Link to Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+130493,crawl,ethnic,Link to Minor in Ethnic Studies,Link to Minor in Ethnic Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:ethnic
+130493,crawl,race,Link to Minor in Racial and Intersectional Justice Studies,Link to Minor in Racial and Intersectional Justice Studies,70,strong_token|bucket_match:race
+130794,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+130794,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+130794,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+130794,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+130794,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+130943,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+130943,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+131469,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+131520,crawl,african,African Studies,"African Studies|African Studies (B.A.)|African Studies (MA, PhD)|African Studies (Ph.D.)",90,bare_studies_name|anchor_phrase|bucket_match:african|degree_token|anchor_phrase|bucket_match:african
+131520,crawl,black,Afro-American Studies,Afro-American Studies,70,bare_studies_name|bucket_match:black
+131520,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+131520,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+134097,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+134130,crawl,black,African American Studies,African American Studies Program,70,strong_token|bucket_match:black
+134130,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+135726,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+136950,crawl,black,African and African American Studies,African and African American Studies|African and African American Studies Minor|African and African American Studies Program,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+136950,crawl,black,Dive into African and African-American Studies,Dive into African and African-American Studies,70,bare_studies_name|bucket_match:black
+136950,crawl,mena,Middle Eastern and North African Studies,Middle Eastern and North African Studies|Middle Eastern and North African Studies Minor,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena|strong_token|anchor_phrase|compound_anchor|bucket_match:mena
+137351,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+137351,crawl,africana,Africana Studies B.A.,Africana Studies B.A.,70,degree_token|anchor_phrase|bucket_match:africana
+137351,crawl,africana,"Interdisciplinary Social Sciences B.A., with Africana Studies Concentration","Interdisciplinary Social Sciences B.A., with Africana Studies Concentration",100,strong_token|degree_token|anchor_phrase|bucket_match:africana
+138600,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+138947,crawl,africana,Africana Women's Studies,Africana Women's Studies,70,bare_studies_name|bucket_match:africana
+138947,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+139658,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+139658,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+139658,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+139658,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+139940,crawl,africana,"Africana Studies, B.A.","Africana Studies, B.A.",70,degree_token|anchor_phrase|bucket_match:africana
+139940,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+139940,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+139959,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+140447,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+140553,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+141060,crawl,african,African Diaspora Studies,African Diaspora Studies|African Diaspora Studies Minor,70,bare_studies_name|bucket_match:african|strong_token|bucket_match:african
+141264,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+141264,crawl,africana,Africana Studies Certificate,Africana Studies Certificate,90,strong_token|anchor_phrase|bucket_match:africana
+141264,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+141574,crawl,ethnic,Esteem for Ethnic Studies,Esteem for Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+141574,crawl,ethnic,"Ethnic Studies, BA/Educational Administration, MEd","Ethnic Studies, BA/Educational Administration, MEd (Non-Thesis)|Ethnic Studies, BA/Educational Administration, MEd (Thesis)",70,degree_token|anchor_phrase|bucket_match:ethnic
+141574,crawl,ethnic,"Ethnic Studies, BA/Educational Foundations, MEd","Ethnic Studies, BA/Educational Foundations, MEd (Non-Thesis)|Ethnic Studies, BA/Educational Foundations, MEd (Thesis)",70,degree_token|anchor_phrase|bucket_match:ethnic
+141574,crawl,ethnic,"Ethnic Studies, Certificate","Ethnic Studies, Certificate",90,strong_token|anchor_phrase|bucket_match:ethnic
+141574,crawl,ethnic,Give a Gift to Ethnic Studies,Give a Gift to Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+142115,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+143084,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+143084,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+143358,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+144050,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+144050,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+144050,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+144740,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+144892,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+144962,crawl,race,Race and Ethnic Studies,Race and Ethnic Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:race
+145600,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+145600,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+145637,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+145637,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+146427,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+146481,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+146481,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+146612,crawl,black,African American Studies,African American Studies|African American Studies (Minor),70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+146612,crawl,ethnic,Ethnic and Cultural Studies,Ethnic and Cultural Studies|Ethnic and Cultural Studies (Minor),70,bare_studies_name|bucket_match:ethnic|strong_token|bucket_match:ethnic
+146719,crawl,african,African Studies,African Studies and the African Diaspora|African Studies and the African Diaspora (BA),100,anchor_phrase|compound_anchor|bucket_match:african|degree_token|anchor_phrase|compound_anchor|bucket_match:african
+146719,crawl,ethnic,Race and Ethnicity Interdisciplinary,Race and Ethnicity Interdisciplinary Minor,70,strong_token|bucket_match:ethnic
+146719,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+147013,crawl,ethnic,Ethnic Studies,Ethnic Studies|Ethnic Studies Program,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+147767,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+147767,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+147767,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+147776,crawl,black,African and African American Studies,"African and African American Studies|African and African American Studies, Minor",100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+148487,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+148627,crawl,black,African American Studies,African American Studies Minor,70,strong_token|bucket_match:black
+148627,crawl,black,African-American Studies,African-American Studies,70,bare_studies_name|bucket_match:black
+148627,crawl,black,African-American Studies Undergraduate,African-American Studies Undergraduate Minor,70,strong_token|bucket_match:black
+149222,crawl,africana,Africana Studies,Africana Studies|Africana Studies Minor|Bachelor of Arts in Africana Studies,100,bare_studies_name|anchor_phrase|bucket_match:africana|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+149222,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+149231,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+149231,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+150400,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+150400,crawl,africana,Africana Studies Major,Africana Studies Major Minor,90,strong_token|anchor_phrase|bucket_match:africana
+150400,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+150455,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+150455,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+151324,crawl,black,African and African American Studies,African and African American Studies (BA)|African and African American Studies (Minor)|Career Possibilities for African and African American Studies Majors,100,anchor_phrase|compound_anchor|bucket_match:black|degree_token|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+151324,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+151351,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+151351,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+152080,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+152080,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+152080,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+152673,crawl,black,Black Studies,Black Studies (minor),90,strong_token|anchor_phrase|bucket_match:black
+153144,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+153162,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+153603,crawl,black,African and African American Studies,African and African American Studies|African and African American Studies Minor,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+153658,crawl,black,African American Studies,"African American Studies|African American Studies, Minor",70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+153658,crawl,black,"African American Studies, Graduate Certificate","African American Studies, Graduate Certificate",70,strong_token|bucket_match:black
+153658,crawl,black,"African American Studies, Graduate Certificate African American Studies, Graduate Certificate Graduate Certificates","African American Studies, Graduate Certificate African American Studies, Graduate Certificate Graduate Certificates",70,strong_token|bucket_match:black
+153658,crawl,black,"African American Studies, Minor African American Studies, Minor Undergraduate Minors","African American Studies, Minor African American Studies, Minor Undergraduate Minors",70,strong_token|bucket_match:black
+153658,crawl,black,Graduate Certificate in African American Studies,Graduate Certificate in African American Studies,100,strong_token|bare_studies_name|bucket_match:black
+153658,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+153834,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+153834,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+155317,crawl,african,Graduate Certificate in African Studies,Graduate Certificate in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+155317,crawl,black,African and African-American Studies,African and African-American Studies|BA in African and African-American Studies|Master of Arts in African and African-American Studies,100,bare_studies_name|bucket_match:black|degree_phrase|bucket_match:black|degree_token|degree_phrase|bare_studies_name|bucket_match:black
+155317,crawl,black,BGS in African and African-American Studies,BGS in African and African-American Studies,70,bare_studies_name|bucket_match:black
+155317,crawl,black,Dual Degree: MA in Museum Studies and African and African-American Studies,Dual Degree: MA in Museum Studies and African and African-American Studies,100,strong_token|degree_token|degree_phrase|bucket_match:black
+155317,crawl,black,Graduate Certificate in African-American Studies,Graduate Certificate in African-American Studies,100,strong_token|bare_studies_name|bucket_match:black
+155317,crawl,black,Minor in African and African-American Studies,Minor in African and African-American Studies,100,strong_token|bare_studies_name|bucket_match:black
+155317,crawl,ethnic,Undergraduate Certificate in Race and Ethnicity in the U.S.,Undergraduate Certificate in Race and Ethnicity in the U.S.,70,strong_token|bucket_match:ethnic
+155317,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+155399,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+156295,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+156295,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+156620,crawl,black,African and African American Studies,"African and African American Studies|African and African American Studies, Minor|Minor in African and African American Studies",100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+157085,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+157289,crawl,africana,Pan-African Studies,Pan-African Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+157289,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+157951,crawl,africana,Africana American Studies,"Africana American Studies, Minor",70,strong_token|bucket_match:africana
+157951,crawl,africana,Africana Studies,Africana Studies|Africana Studies Program,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+157951,crawl,black,African American Studies,African American Studies|African American Studies Minor,70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+157951,crawl,black,Degrees and Programs African American Studies,Degrees and Programs African American Studies Minor,70,strong_token|bucket_match:black
+159391,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+160755,crawl,africana,Africana Studies,"Africana Studies Major|Africana Studies Minor|Africana Studies and Art History, MA|Joint Degree in Studio Art and Africana Studies, MFA/MA",100,degree_token|anchor_phrase|compound_anchor|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana|strong_token|degree_token|anchor_phrase|compound_anchor|bucket_match:africana
+160755,crawl,africana,"Studio Art with a concentration in Africana Studies, MFA","Studio Art with a concentration in Africana Studies, MFA",90,strong_token|anchor_phrase|bucket_match:africana
+160977,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+161004,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+161004,crawl,mena,Middle Eastern and North African Studies,Middle Eastern and North African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena
+161004,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+161004,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+162654,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+163268,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+163268,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+163286,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+164216,crawl,black,Black Studies,Black Studies|Black Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:black|strong_token|anchor_phrase|bucket_match:black
+164465,crawl,african,African Studies Certificate,African Studies Certificate,90,strong_token|anchor_phrase|bucket_match:african
+164465,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+164465,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+164924,crawl,african,African and African Diaspora Studies,African and African Diaspora Studies,70,bare_studies_name|bucket_match:african
+164988,crawl,african,African Language,African Language Program,70,strong_token|bucket_match:african
+164988,crawl,african,African Studies,African Studies|African Studies Minor in African Languages and Literatures Minor in African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|strong_token|anchor_phrase|compound_anchor|bucket_match:african
+164988,crawl,african,Minor in African Languages and Literatures,Minor in African Languages and Literatures,70,strong_token|bucket_match:african
+164988,crawl,african,Minor in African Studies,Minor in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+164988,crawl,black,African American and Black Diaspora Studies,African American and Black Diaspora Studies|BA in African American and Black Diaspora Studies,100,bare_studies_name|bucket_match:black|degree_token|degree_phrase|bucket_match:black
+164988,crawl,black,African American and Black Diaspora Studies BA in African American and Black Diaspora Studies Minor in African American and Black Diaspora Studies,African American and Black Diaspora Studies BA in African American and Black Diaspora Studies Minor in African American and Black Diaspora Studies,100,strong_token|degree_token|degree_phrase|bucket_match:black
+164988,crawl,black,Minor in African American and Black Diaspora Studies,Minor in African American and Black Diaspora Studies,70,strong_token|bucket_match:black
+164988,crawl,mena,Middle East and North Africa Studies,Middle East and North Africa Studies,70,bare_studies_name|bucket_match:mena
+165015,crawl,black,African and African American Studies,African and African American Studies|African and African American Studies Undergraduate aaas,100,anchor_phrase|compound_anchor|bucket_match:black|bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+165015,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+166027,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+166027,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+166027,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+166638,crawl,africana,Africana Studies,Africana Studies|Africana Studies Major|Africana Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+166939,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+166939,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+166939,crawl,africana,Africana Studies Major Pathway/Minor,Africana Studies Major Pathway/Minor,90,strong_token|anchor_phrase|bucket_match:africana
+166939,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+166939,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+167783,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+167783,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+167835,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+167835,crawl,african,Contact African Studies,Contact African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+167835,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+167835,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+167987,crawl,black,Black Studies,Black Studies Minor,90,strong_token|anchor_phrase|bucket_match:black
+168148,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+168218,crawl,africana,Africana,Africana major and minor,70,strong_token|bucket_match:africana
+168218,crawl,africana,Africana Studies,Afiya Mbilishaka ﻿ Assistant Professor of Africana Studies and Psychology|Africana Studies,90,anchor_phrase|compound_anchor|bucket_match:africana|bare_studies_name|anchor_phrase|bucket_match:africana
+168218,crawl,ethnic,Comparative race and ethnicity,Comparative race and ethnicity minor,70,strong_token|bucket_match:ethnic
+168218,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+168546,crawl,ethnic,Ethnic Studies,"Ethnic Studies Major and Minor|Ethnic Studies and Women's, Gender, and Sexuality Studies",100,anchor_phrase|compound_anchor|bucket_match:ethnic|strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+169080,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+169798,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+170082,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+172644,crawl,black,African American Studies,African American Studies|African American Studies African American Studies|BA in African American Studies|Bachelor of Arts in African American Studies,100,bare_studies_name|bucket_match:black|degree_phrase|bucket_match:black|degree_token|degree_phrase|bare_studies_name|bucket_match:black
+172644,crawl,black,African American studies bachelor's degree career outlook,African American studies bachelor's degree career outlook,70,strong_token|bucket_match:black
+172644,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+172644,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+172699,crawl,black,African American and African Studies,African American and African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+172699,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+173258,crawl,africana,Africana Studies,Africana Studies|Africana Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+173258,crawl,africana,Africana Studies major,Africana Studies major minor,90,strong_token|anchor_phrase|bucket_match:africana
+173258,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+173902,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+173920,crawl,ethnic,Ethnic Studies,Ethnic Studies|Ethnic Studies Program,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+174020,crawl,ethnic,Ethnic Studies,Ethnic Studies|Ethnic Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+174020,crawl,ethnic,"Ethnic, Gender, Historical, and Philosophical Studies","Ethnic, Gender, Historical, and Philosophical Studies",70,bare_studies_name|bucket_match:ethnic
+174066,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+174844,crawl,race,RACE Major and Concentration,The RACE Major and Concentration,70,strong_token|bucket_match:race
+174844,crawl,race,Race and Ethnic Studies,A house Race and Ethnic Studies|Race and Ethnic Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:race
+174844,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+176017,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+178396,crawl,black,Black Studies,"Black Studies|Black Studies , Minor",90,bare_studies_name|anchor_phrase|bucket_match:black|strong_token|anchor_phrase|bucket_match:black
+178402,crawl,ethnic,"Race, Ethnic, and Gender Studies","Race, Ethnic, and Gender Studies",70,bare_studies_name|bucket_match:ethnic
+179159,crawl,black,African American Studies,"African American Studies, Minor",70,strong_token|bucket_match:black
+179159,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+179867,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+180489,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+181002,crawl,african,African Studies,African Studies (Minor),90,strong_token|anchor_phrase|bucket_match:african
+181002,crawl,african,African Studies (Minor),African Studies (Minor) Minor,90,strong_token|anchor_phrase|bucket_match:african
+181002,crawl,black,African American and Black Diasporic Studies,African American and Black Diasporic Studies (Minor),70,strong_token|bucket_match:black
+181002,crawl,black,African American and Black Diasporic Studies (Minor),African American and Black Diasporic Studies (Minor) Minor,70,strong_token|bucket_match:black
+181215,crawl,ethnic,Ethnic Studies Minor Online On Campus,Ethnic Studies Minor Online On Campus,90,strong_token|anchor_phrase|bucket_match:ethnic
+181394,crawl,black,Black Studies,Black Studies Minor|the Black Studies Minor,90,strong_token|anchor_phrase|bucket_match:black
+181394,crawl,black,Black Studies Graduate,Black Studies Graduate Minor,90,strong_token|anchor_phrase|bucket_match:black
+181394,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+181394,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+181464,crawl,black,African and African-American Studies,African and African-American Studies,70,bare_studies_name|bucket_match:black
+181464,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+181464,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+182281,crawl,black,African American and African Diaspora Studies,African American and African Diaspora Studies,70,bare_studies_name|bucket_match:black
+182281,crawl,black,Concentration in African American and African Diaspora Studies,Concentration in African American and African Diaspora Studies,70,strong_token|bucket_match:black
+182281,crawl,black,Minor in African American and African Diaspora Studies,Minor in African American and African Diaspora Studies|Minor in African American and African Diaspora Studies Minor in African American and African Diaspora Studies,70,strong_token|bucket_match:black
+182281,crawl,ethnic,Ethnic Studies,"Interdisciplinary, Gender, and Ethnic Studies",100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:ethnic
+182281,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+182290,crawl,race,"Gender, Race and Identity","Bachelor of Arts in Gender, Race and Identity",70,degree_phrase|bucket_match:race
+182670,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+182670,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+184348,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+184348,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+184782,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+185129,crawl,africana,"Gender, Africana, and Latin American Studies","Gender, Africana, and Latin American Studies",70,bare_studies_name|bucket_match:africana
+185129,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+185129,crawl,black,African and African-American Studies,"African and African-American Studies|African and African-American Studies, Minor",70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+185129,crawl,ethnic,Ethnic and Immigration Studies,Ethnic and Immigration Studies,70,bare_studies_name|bucket_match:ethnic
+186131,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+186131,crawl,african,Program in African Studies,Program in African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+186131,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+186131,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+186201,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+186201,crawl,ethnic,Ethnicity and Race Studies,Ethnicity and Race Studies,70,bare_studies_name|bucket_match:ethnic
+186201,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+186371,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+186380,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+186380,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+186399,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+186399,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+186584,crawl,africana,Africana Studies,Africana Studies|Africana Studies (B.A.)|Africana Studies Program,90,bare_studies_name|anchor_phrase|bucket_match:africana|degree_token|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+186584,crawl,africana,Africana Studies Program Minor in Africana Studies,Africana Studies Program Minor in Africana Studies,90,strong_token|anchor_phrase|bucket_match:africana
+186584,crawl,africana,B.A in Africana Studies,B.A in Africana Studies,100,degree_token|bare_studies_name|anchor_phrase|bucket_match:africana
+186584,crawl,africana,BA Africana Studies,BA Africana Studies,100,degree_token|bare_studies_name|anchor_phrase|bucket_match:africana
+186584,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+186584,crawl,mena,Middle Eastern and North African Studies,Middle Eastern and North African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena
+186584,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+186876,crawl,africana,Africana Studies,"Ariane Hutchins-Newman , Associate Provost for Academic Success - certificate in Africana Studies, Stockton University|B.A. in Africana Studies|John Gray , Instructor of Organizational Leadership - certificate in Africana Studies, Stockton University|a comprehensive list of Africana Studies majors and possible career paths.",100,anchor_phrase|compound_anchor|bucket_match:africana|degree_token|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+186876,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+186876,crawl,africana,"Rhea Boyd , Pediatrician - BA in Africana Studies, University of Notre Dame","Rhea Boyd , Pediatrician - BA in Africana Studies, University of Notre Dame",100,degree_token|degree_phrase|anchor_phrase|bucket_match:africana
+186876,crawl,black,Africana Studies,"Darrell Cleveland , Associate Professor of Education and Africana Studies - BA in African American Studies, Temple University",100,degree_token|degree_phrase|anchor_phrase|compound_anchor|bucket_match:black|profile_dash
+186876,crawl,black,"Angela Bassett , Actress - BA in African American Studies, Yale University","Angela Bassett , Actress - BA in African American Studies, Yale University",100,degree_token|degree_phrase|bucket_match:black
+186876,crawl,black,"Ava DuVernay , Director - BA in English literature and African-American studies, UCLA","Ava DuVernay , Director - BA in English literature and African-American studies, UCLA",100,degree_token|degree_phrase|bucket_match:black
+186876,crawl,black,Black Studies,"Jose Antonio Vargas , Journalist - BA in political science and Black Studies, San Francisco State University",100,degree_token|degree_phrase|anchor_phrase|compound_anchor|bucket_match:black
+186876,crawl,black,"Gloria Naylor , Novelist - MA in African American Studies, Yale University","Gloria Naylor , Novelist - MA in African American Studies, Yale University",100,degree_token|degree_phrase|bucket_match:black
+186876,crawl,black,"Issa Rae , Actress and Writer - BA in African and African-American Studies, Stanford University","Issa Rae , Actress and Writer - BA in African and African-American Studies, Stanford University",100,degree_token|degree_phrase|bucket_match:black
+186876,crawl,black,"Mae Jemison , Engineer, Astronaut - BA in African and Afro-American Studies, Stanford University","Mae Jemison , Engineer, Astronaut - BA in African and Afro-American Studies, Stanford University",100,degree_token|degree_phrase|bucket_match:black
+186876,crawl,black,"Michelle Obama , Former FLOTUS - BA in Sociology and minor in African-American studies, Princeton University","Michelle Obama , Former FLOTUS - BA in Sociology and minor in African-American studies, Princeton University",100,strong_token|degree_token|degree_phrase|bucket_match:black
+187134,crawl,african,African Studies,African Studies|African Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:african|strong_token|anchor_phrase|bucket_match:african
+187134,crawl,black,African American Studies,African American Studies|African American Studies Minor,70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+187134,crawl,black,African American Studies Major/Specialization Minor Teacher Preparation,African American Studies Major/Specialization Minor Teacher Preparation,70,strong_token|bucket_match:black
+187134,crawl,black,Inclusive Education (BS) and African American Studies Dual,Inclusive Education (BS) and African American Studies Dual Major,100,strong_token|degree_token|bucket_match:black
+187134,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+187985,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+188429,crawl,black,"African, Black and Caribbean Studies","African, Black and Caribbean Studies",70,bare_studies_name|bucket_match:black
+189097,crawl,africana,Africana Studies,Africana Studies|Africana Studies Major|Africana Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+189097,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+190099,crawl,africana,Africana And Latin American Studies,Africana And Latin American Studies Program,70,strong_token|bucket_match:africana
+190099,crawl,africana,Africana and Latin American Studies,Africana and Latin American Studies|Africana and Latin American Studies Major|Africana and Latin American Studies Minor,70,bare_studies_name|bucket_match:africana|strong_token|bucket_match:africana
+190415,crawl,africana,Africana Studies,Africana Studies|Africana Studies (BA)|Africana Studies (PhD)|Africana Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:africana|degree_token|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+190415,crawl,black,Black studies,Black studies program,90,strong_token|anchor_phrase|bucket_match:black
+190415,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+190512,crawl,black,Black and Latino Studies,Black and Latino Studies,70,bare_studies_name|bucket_match:black
+190549,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+190549,crawl,africana,"Africana Studies, B.A.","Africana Studies, B.A.",70,degree_token|anchor_phrase|bucket_match:africana
+190549,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+190549,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+190558,crawl,african,African and African Diaspora Studies,African and African Diaspora Studies|Bachelor of Arts in African and African Diaspora Studies,70,bare_studies_name|bucket_match:african|degree_phrase|bucket_match:african
+190567,crawl,black,Major in Black Studies,Major in Black Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:black
+190567,crawl,black,Minor in Black Studies,Minor in Black Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:black
+190594,crawl,africana,Africana and Puerto Rican/Latino Studies,Africana and Puerto Rican/Latino Studies,70,bare_studies_name|bucket_match:africana
+190594,crawl,africana,"Africana, Puerto Rican and Latino Studies","Africana, Puerto Rican and Latino Studies",70,bare_studies_name|bucket_match:africana
+190637,crawl,africana,AFRICANA STUDIES,AFRICANA STUDIES,90,bare_studies_name|anchor_phrase|bucket_match:africana
+190637,crawl,africana,Africana Studies,Africana Studies Minor,90,strong_token|anchor_phrase|bucket_match:africana
+190637,crawl,africana,BA Africana Studies,BA Africana Studies,100,degree_token|bare_studies_name|anchor_phrase|bucket_match:africana
+190655,crawl,black,Black Visual Cultures -,Black Visual Cultures - Minor,70,strong_token|bucket_match:black
+190655,crawl,black,Minor in Black Visual Cultures,Minor in Black Visual Cultures,70,strong_token|bucket_match:black
+190664,crawl,africana,Africana Studies,Africana Studies|the Africana Studies Program,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+190664,crawl,black,"Africana Studies (BA) with a concentration in Africa, Caribbean, or African American Studies.","Africana Studies (BA) with a concentration in Africa, Caribbean, or African American Studies.",100,strong_token|degree_token|anchor_phrase|bucket_match:black
+190664,crawl,black,"Bachelor of Arts (BA), with a concentration in Africa, Caribbean, or African American Studies","Bachelor of Arts (BA), with a concentration in Africa, Caribbean, or African American Studies",100,strong_token|degree_token|bucket_match:black
+191241,crawl,black,African and African American Studies,African and African American Studies|An Education in African and African American Studies,100,anchor_phrase|compound_anchor|bucket_match:black|bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+191241,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+191515,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+191515,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+191630,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+191630,crawl,africana,"Minor Africana Studies Africa, Diaspora, undecided","Minor Africana Studies Africa, Diaspora, undecided",90,strong_token|anchor_phrase|bucket_match:africana
+191630,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+193900,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+193900,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+193900,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+193973,crawl,black,Africana/Black Studies,Africana/Black Studies (Minor),90,strong_token|anchor_phrase|bucket_match:black
+195030,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+195216,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+195216,crawl,african,African Studies Program Type,African Studies Program Type Minor,90,strong_token|anchor_phrase|bucket_match:african
+195216,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+195216,crawl,black,African American Studies Program Type,African American Studies Program Type Minor,70,strong_token|bucket_match:black
+195216,crawl,black,number of majors you can choose from to pair with your African American studies,the number of majors you can choose from to pair with your African American studies minor,70,strong_token|bucket_match:black
+195720,crawl,black,African American Studies,African American Studies|African American Studies Program,70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+196060,crawl,africana,Africana Studies,Africana Studies|Africana Studies - BA Advanced Degree Options +MS Option|Bachelor of Arts in Africana Studies,100,bare_studies_name|anchor_phrase|bucket_match:africana|degree_phrase|bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|degree_token|anchor_phrase|bucket_match:africana|profile_dash
+196079,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+196088,crawl,black,8/13/25 African American Studies,8/13/25 African American Studies,70,bare_studies_name|bucket_match:black
+196097,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+196121,crawl,black,African and African-American Studies,African and African-American Studies,70,bare_studies_name|bucket_match:black
+196121,crawl,black,African and African-American Studies + MPH Accelerated degree,African and African-American Studies + MPH Accelerated degree,70,strong_token|bucket_match:black
+196121,crawl,black,African and African-American Studies + Public Health Accelerated Degree,African and African-American Studies + Public Health Accelerated Degree (BA/MPH),100,strong_token|degree_token|bucket_match:black
+196121,crawl,black,African and African-American Studies Major/Minor,African and African-American Studies Major/Minor,70,strong_token|bucket_match:black
+196130,crawl,africana,Africana Studies,Africana Studies|Africana Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+196130,crawl,africana,Africana Studies B.A.,Africana Studies B.A.,70,degree_token|anchor_phrase|bucket_match:africana
+196130,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+196149,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+196149,crawl,black,Dual Major in Adolescence Education: Social Studies and African American Studies,Dual Major in Adolescence Education: Social Studies and African American Studies (7-12),70,strong_token|bucket_match:black
+196158,crawl,black,African American Studies,African American Studies|African American Studies Minor,70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+196158,crawl,ethnic,Ethnic and Gender Studies,B.A. in Ethnic and Gender Studies|Ethnic and Gender Studies|Ethnic and Gender Studies Program,100,bare_studies_name|bucket_match:ethnic|degree_token|degree_phrase|bare_studies_name|bucket_match:ethnic|strong_token|bucket_match:ethnic
+196158,crawl,ethnic,Ethnic and Gender Studies B.A.,Ethnic and Gender Studies B.A. program,100,strong_token|degree_token|bucket_match:ethnic
+196158,crawl,ethnic,Ethnic and Gender Studies Program at Fredonia,Ethnic and Gender Studies Program at Fredonia,70,strong_token|bucket_match:ethnic
+196158,crawl,ethnic,Multi-Ethnic Studies,Multi-Ethnic Studies|Multi-Ethnic Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+196194,crawl,black,African/African-American Studies,African/African-American Studies Minor,70,strong_token|bucket_match:black
+196413,crawl,black,Black Studies,"Describe major cultural figures, texts and movements in Black studies.|Develop ability to conceive and execute independent inquiries in Black studies.",100,anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+196413,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+196866,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+197133,crawl,africana,Africana Studies,Africana Studies|Africana Studies Africana Studies Arabic Language and Culture Prison Studies,90,anchor_phrase|compound_anchor|bucket_match:africana|bare_studies_name|anchor_phrase|bucket_match:africana
+197133,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+198419,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+198464,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+198516,crawl,black,African and African-American Studies,African and African-American Studies|African and African-American Studies Minor (opens a new window),70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+198613,crawl,black,African and African American Studies,Bachelor of Arts in African and African American Studies:|Minor in African and African American Studies:,100,degree_phrase|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+199120,crawl,black,"African, African American and Diaspora Studies","African, African American and Diaspora Studies",70,bare_studies_name|bucket_match:black
+199120,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+199193,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+199847,crawl,african,African Studies,African Studies|African Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:african|strong_token|anchor_phrase|bucket_match:african
+199847,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+199847,crawl,black,African American Studies Major,"African American Studies Major, Minor",70,strong_token|bucket_match:black
+199847,crawl,ethnic,American Ethnic Studies,American Ethnic Studies|American Ethnic Studies Minor,90,bare_studies_name|anchor_phrase|bucket_match:ethnic|strong_token|anchor_phrase|bucket_match:ethnic
+201441,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+201441,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+201441,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+201885,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+202134,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+202480,crawl,race,Race and Ethic Studies,Race and Ethic Studies,70,bare_studies_name|bucket_match:race
+202480,crawl,race,Race and Ethnic Studies,Race and Ethnic Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:race
+202523,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+203535,crawl,african,African Diaspora Studies,African Diaspora Studies,70,bare_studies_name|bucket_match:african
+203535,crawl,african,African Diaspora Studies concentration,African Diaspora Studies concentration,70,strong_token|bucket_match:african
+204024,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+204185,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+204185,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+204501,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+204501,crawl,africana,Engaged Africana Studies,Engaged Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+204501,crawl,africana,More in Africana Studies,More in Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+204501,crawl,black,African American Music,African American Music Minor,70,strong_token|bucket_match:black
+204501,crawl,mena,Middle East and North Africa Studies,Middle East and North Africa Studies,70,bare_studies_name|bucket_match:mena
+204501,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+204796,crawl,ethnic,Comparative Ethnic and American Studies,Comparative Ethnic and American Studies,70,bare_studies_name|bucket_match:ethnic
+204857,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+204857,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+204909,crawl,africana,"Africana, Gender, and Identity Studies","Africana, Gender, and Identity Studies",70,bare_studies_name|bucket_match:africana
+204909,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+206589,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+206589,crawl,africana,Africana studies major makes connection with Wooster alumnus in legal field,Africana studies major makes connection with Wooster alumnus in legal field,90,strong_token|anchor_phrase|bucket_match:africana
+206589,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+206604,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+206695,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+206695,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+206695,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+206695,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+209056,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+209056,crawl,mena,Middle East and North Africa Studies,Middle East and North African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena
+209542,crawl,ethnic,Ethnic Studies,Ethnic Studies Minor,90,strong_token|anchor_phrase|bucket_match:ethnic
+209542,crawl,ethnic,Ethnic Studies Graduate,Ethnic Studies Graduate Minor,90,strong_token|anchor_phrase|bucket_match:ethnic
+209542,crawl,ethnic,Ethnic Studies Graduate Minor Minor College of Liberal Arts Graduate Corvallis MAIS,Ethnic Studies Graduate Minor Minor College of Liberal Arts Graduate Corvallis MAIS,90,strong_token|anchor_phrase|bucket_match:ethnic
+209542,crawl,ethnic,Ethnic Studies Minor Minor College of Liberal Arts Undergraduate Corvallis,Ethnic Studies Minor Minor College of Liberal Arts Undergraduate Corvallis,90,strong_token|anchor_phrase|bucket_match:ethnic
+209542,crawl,ethnic,Ethnic Studies Undergraduate,"Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS)",100,strong_token|degree_token|anchor_phrase|bucket_match:ethnic
+209542,crawl,ethnic,"Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS) Major College of Liberal Arts Undergraduate Corvallis BA, HBA BS, HBS","Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS) Major College of Liberal Arts Undergraduate Corvallis BA, HBA BS, HBS",100,strong_token|degree_token|anchor_phrase|bucket_match:ethnic
+209542,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+209551,crawl,african,African studies,African studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+209551,crawl,black,Black studies,Black studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+209551,crawl,ethnic,Ethnic studies,Ethnic studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+209551,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+209807,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+209807,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+210401,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+211273,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+211273,crawl,mena,Middle Eastern and North African Studies,"Middle Eastern, Central Asian, and North African Studies",70,anchor_phrase|compound_anchor|bucket_match:mena
+211291,crawl,african,African Studies,African Studies|Majors and Minors The African Studies Minor|The African Studies Minor,100,bare_studies_name|anchor_phrase|bucket_match:african|strong_token|anchor_phrase|bucket_match:african|strong_token|anchor_phrase|compound_anchor|bucket_match:african
+211291,crawl,black,Critical Black Studies,Critical Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+211291,crawl,ethnic,Race and Ethnicity Studies,Race and Ethnicity Studies,70,bare_studies_name|bucket_match:ethnic
+212009,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+212009,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+212577,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+212577,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+212577,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+212674,crawl,africana,Africana Studies,"Africana Studies|Africana Studies - Major, Minor",90,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+212674,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+212911,crawl,africana,Africana Studies,African and Africana Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:africana
+213385,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+213543,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+213543,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+214175,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+214175,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+214175,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+215062,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+215062,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+215293,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+215293,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+216287,crawl,africana,Bryn Mawr College Africana Studies,Bryn Mawr College Africana Studies Program,90,strong_token|anchor_phrase|bucket_match:africana
+216287,crawl,africana,Haverford College Africana Studies,Haverford College Africana Studies Program,90,strong_token|anchor_phrase|bucket_match:africana
+216287,crawl,africana,University of Pennsylvania Africana Studies,University of Pennsylvania Africana Studies Program,90,strong_token|anchor_phrase|bucket_match:africana
+216287,crawl,black,Black Studies,Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+216287,crawl,black,What Can I Do with a Black Studies,What Can I Do with a Black Studies Major,90,strong_token|anchor_phrase|bucket_match:black
+216287,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+216287,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+216287,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+216339,crawl,black,Africology and African American Studies,Africology and African American Studies|Africology and African American Studies Major|Bachelor of Arts in Africology and African American Studies|Master of Arts in Africology and African American Studies,70,bare_studies_name|bucket_match:black|degree_phrase|bucket_match:black|strong_token|bucket_match:black
+216339,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+216524,crawl,black,Africana Studies,African American and Africana Studies|African American and Africana Studies Program,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black
+216764,crawl,black,African American Studies,African American Studies Program,70,strong_token|bucket_match:black
+216764,crawl,black,Minor in African American Studies,Minor in African American Studies,100,strong_token|bare_studies_name|bucket_match:black
+216764,crawl,black,Minor in African/​African American Literature,Minor in African/​African American Literature,70,strong_token|bucket_match:black
+216764,crawl,ethnic,Minor in Ethnic Studies,Minor in Ethnic Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:ethnic
+217156,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+217156,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+217156,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus
+217156,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+217420,crawl,africana,Africana Studies,Africana Studies|Africana Studies Program|With our Africana Studies bachelor's degree you'll shift paradigms and create new ways of seeing and knowing.,100,bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|compound_anchor|bucket_match:africana
+217420,crawl,africana,Jalisa Torres: From Africana Studies Major to Housing Advocate,Jalisa Torres: From Africana Studies Major to Housing Advocate,90,strong_token|anchor_phrase|bucket_match:africana
+217420,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+217420,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+217484,crawl,africana,"Africana Studies, B.A.","Africana Studies, B.A.",70,degree_token|anchor_phrase|bucket_match:africana
+217864,crawl,black,Minor in African American Studies,Minor in African American Studies,100,strong_token|bare_studies_name|bucket_match:black
+217882,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+218964,crawl,black,African-American Studies,African-American Studies,70,bare_studies_name|bucket_match:black
+218973,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+218973,crawl,mena,Middle Eastern and North African Studies,Middle Eastern and North African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena
+220075,crawl,black,Black American Studies,Black American Studies Minor,70,strong_token|bucket_match:black
+221351,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+221351,crawl,africana,Major in Africana Studies,Major in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+221351,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+221351,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+221351,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+221519,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+221999,crawl,black,African-American and Diaspora Studies,African-American and Diaspora Studies,70,bare_studies_name|bucket_match:black
+221999,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+225511,crawl,black,African American Studies,"African American Studies|African American Studies, Minor",70,bare_studies_name|bucket_match:black|strong_token|bucket_match:black
+225511,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+228723,crawl,africana,AFST -​ Africana Studies,AFST -​ Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+228778,crawl,african,African and African Diaspora Studies,African and African Diaspora Studies,70,bare_studies_name|bucket_match:african
+228778,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+228981,crawl,ethnic,Ethnic studies,Ethnic studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+231624,crawl,africana,Africana Studies,Africana Studies|Africana Studies at W and M,90,anchor_phrase|compound_anchor|bucket_match:africana|bare_studies_name|anchor_phrase|bucket_match:africana
+231624,crawl,africana,Africana Studies Program fund,Africana Studies Program fund,90,strong_token|anchor_phrase|bucket_match:africana
+231624,crawl,africana,Contact Africana Studies,Contact Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+231624,crawl,africana,Major in Africana Studies,Major in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+231624,crawl,africana,Minor in Africana Studies,Minor in Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+231624,crawl,africana,Support Africana Studies,Support Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+232982,crawl,black,African American and African Studies,African American and African Studies (B.A./B.S.),100,degree_token|anchor_phrase|compound_anchor|bucket_match:black
+232982,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+233921,crawl,ethnic,Ethnic Studies,"Global, Government, and Ethnic Studies",100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:ethnic
+234030,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+234076,crawl,black,African American and African Studies,African American and African Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+234076,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+234207,crawl,africana,Africana Studies,Africana Studies|Africana Studies Minor|Africana Studies at W and L,90,anchor_phrase|compound_anchor|bucket_match:africana|bare_studies_name|anchor_phrase|bucket_match:africana|strong_token|anchor_phrase|bucket_match:africana
+235097,crawl,africana,Africana Studies,Africana Studies,90,bare_studies_name|anchor_phrase|bucket_match:africana
+235097,crawl,africana,BA-Interdisciplinary Studies: Africana Studies,BA-Interdisciplinary Studies: Africana Studies,100,degree_token|bare_studies_name|anchor_phrase|bucket_match:africana
+235097,crawl,africana,Minor-Africana Studies,Minor-Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+235097,cv,ethnic,Ethnic Studies,Ethnic Studies,100,bare_studies_name|anchor_phrase|bucket_match:ethnic|cv_bonus
+236595,crawl,black,African and African American Studies,"African and African American Studies Program|African and African American Studies, Minor|El Hadji Malick Ndiaye, PhD Associate Professor, French Associate Professor, African and African American Studies|Minor, African and African American Studies|Saheed Adejumobi, PhD Associate Professor, History Affiliated with African and African American Studies and Film Studies",100,degree_token|anchor_phrase|compound_anchor|bucket_match:black|strong_token|anchor_phrase|compound_anchor|bucket_match:black|strong_token|bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+236939,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+237011,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+237057,crawl,ethnic,"Indigeneity, Race and Ethnicity Studies","Indigeneity, Race and Ethnicity Studies",70,bare_studies_name|bucket_match:ethnic
+237057,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+239017,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+239017,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+240189,crawl,black,African American Studies,African American Studies,70,bare_studies_name|bucket_match:black
+240189,crawl,race,Race and Ethnic Studies,Race and Ethnic Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:race
+240329,crawl,race,"Race, Gender and Sexuality Studies","Race, Gender and Sexuality Studies|Race, Gender and Sexuality Studies program",70,bare_studies_name|bucket_match:race|strong_token|bucket_match:race
+240374,crawl,ethnic,Ethnic Studies,Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+240444,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+240444,crawl,black,Afro-American Studies,Afro-American Studies,70,bare_studies_name|bucket_match:black
+240453,crawl,african,African and African Diaspora Studies,"African and African Diaspora Studies|African and African Diaspora Studies, Minor",70,bare_studies_name|bucket_match:african|strong_token|bucket_match:african
+240453,crawl,african,"African and African Diaspora Studies Major , Minor , Master's , Doctoral","African and African Diaspora Studies Major , Minor , Master's , Doctoral",70,strong_token|bucket_match:african
+240453,crawl,african,"African and African Diaspora Studies, BA Undergraduate Major Letters and Science","African and African Diaspora Studies, BA Undergraduate Major Letters and Science",100,strong_token|degree_token|bucket_match:african
+240453,crawl,african,"African and African Diaspora Studies, Minor Undergraduate Letters and Science","African and African Diaspora Studies, Minor Undergraduate Letters and Science Minor",70,strong_token|bucket_match:african
+240453,crawl,ethnic,Comparative Ethnic Studies,Comparative Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+240453,crawl,ethnic,Comparative Ethnic Studies Certificate,Comparative Ethnic Studies Certificate,90,strong_token|anchor_phrase|bucket_match:ethnic
+240453,crawl,ethnic,Ethnic Studies,"Comparative Ethnic Studies, Undergraduate Certificate Undergraduate Certificate Letters and Science",100,strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+240453,crawl,mena,Middle Eastern and North African Studies,"Middle Eastern and North African Studies|Middle Eastern and North African Studies Certificate|Middle Eastern and North African Studies, Undergraduate Certificate Undergraduate Certificate Letters and Science",100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:mena|strong_token|anchor_phrase|compound_anchor|bucket_match:mena
+240453,crawl,race,Racial and Social Justice in Education Certificate,Racial and Social Justice in Education Certificate,70,strong_token|bucket_match:race
+240453,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+240727,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+243744,crawl,african,African Studies,African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+243744,crawl,black,African and African American Studies,African and African American Studies,100,bare_studies_name|anchor_phrase|compound_anchor|bucket_match:black
+243744,cv,black,African-American/Black Studies,African-American/Black Studies,100,bare_studies_name|anchor_phrase|bucket_match:black|cv_bonus
+243744,cv,minority,"Ethnic, Cultural Minority, and Gender Studies, Other","Ethnic, Cultural Minority, and Gender Studies, Other",100,cv_taxonomy_target|bucket_match:minority|cv_bonus
+486840,cv,african,African Studies,African Studies,100,bare_studies_name|anchor_phrase|bucket_match:african|cv_bonus

@@ -1,0 +1,102 @@
+row_index,unitid,source,raw_title,title_kind,is_program_title,bucket,canonical_title,program_conf,program_conf_reason
+7,189097,crawl,Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+14,164988,crawl,African Studies Center,center_institute,0,african,African Studies Center,30,anchor_phrase|bucket_match:african
+15,161004,crawl,Africana Studies Becomes a Department,department_unit,0,africana,Africana Studies Becomes a Department,90,strong_token|anchor_phrase|bucket_match:africana
+19,217156,crawl,Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+23,115755,crawl,Pan African Center,center_institute,0,africana,Pan African Center,10,bucket_match:africana
+25,110538,crawl,"Ethnic, Gender, and Queer Studies Department",department_unit,0,ethnic,"Ethnic, Gender, and Queer Studies Department",70,strong_token|bucket_match:ethnic
+26,110547,crawl,University Ethnic Studies Committee (UESC),committee_admin,0,ethnic,University Ethnic Studies Committee,30,anchor_phrase|bucket_match:ethnic
+31,110592,crawl,Department of Pan-African Studies,department_unit,0,africana,Pan-African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+48,190099,crawl,Africana and Latin American Studies Program in the Division of University Studies Go to program,committee_admin,0,africana,Africana and Latin American Studies Program in the Division of University Studies Go to,70,strong_token|bucket_match:africana
+54,190415,crawl,Africana Studies and ​ Research Center (ASRC),center_institute,0,africana,Africana Studies,70,anchor_phrase|compound_anchor|bucket_match:africana
+55,181002,crawl,College of Art and Sciences Department of African Studies,department_unit,0,african,African Studies,100,strong_token|anchor_phrase|compound_anchor|bucket_match:african
+55,181002,crawl,Department of African Studies,department_unit,0,african,African Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:african
+57,190549,crawl,Africana Studies Department,department_unit,0,africana,Africana Studies Department,90,strong_token|anchor_phrase|bucket_match:africana
+58,190567,crawl,Black Studies Department,department_unit,0,black,Black Studies Department,90,strong_token|anchor_phrase|bucket_match:black
+62,190664,crawl,"Center for Ethnic, Racial and Religous Understanding",center_institute,0,ethnic,"Center for Ethnic, Racial and Religous Understanding",10,bucket_match:ethnic
+63,182670,crawl,African and African American Studies Department,department_unit,0,black,African and African American Studies,100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+63,182670,crawl,"Tuck Europe, Middle East, and Africa (EMEA) Council",committee_admin,0,mena,"Tuck Europe, Middle East, and Africa (EMEA) Council",10,bucket_match:mena
+83,133951,crawl,African and African Diaspora Studies (MA) Available Online,center_institute,0,african,African and African Diaspora Studies (MA) Available Online,50,degree_token|bucket_match:african
+85,191241,crawl,Department of African and African American Studies,department_unit,0,black,African and African American Studies,100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+85,191241,crawl,The Department of African and African American Studies at Fordham,department_unit,0,black,African and African American Studies,100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+96,198613,crawl,African and African American Studies Department,department_unit,0,black,African and African American Studies,100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+99,166027,crawl,Africa Research Center,center_institute,0,african,Africa Research Center,10,bucket_match:african
+99,166027,crawl,"Center for Race, Inequality and Social Equity Studies (CRISES)",center_institute,0,race,"Center for Race, Inequality and Social Equity Studies",10,bucket_match:race
+99,166027,crawl,Charles Hamilton Houston Institute for Race and Justice,center_institute,0,race,Charles Hamilton Houston Institute for Race and Justice,10,bucket_match:race
+99,166027,crawl,"Committee on Ethnicity, Migration, Rights",committee_admin,0,ethnic,"Committee on Ethnicity, Migration, Rights",10,bucket_match:ethnic
+99,166027,crawl,Harvard University Center for African Studies,center_institute,0,african,Harvard University Center for African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+99,166027,crawl,Hutchins Center for African and African American Research,center_institute,0,black,Hutchins Center for African and African American Research,10,bucket_match:black
+99,166027,crawl,Middle East and North Africa Research Center,center_institute,0,mena,Middle East and North Africa Research Center,10,bucket_match:mena
+117,203517,crawl,Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+135,127565,crawl,Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+142,140553,crawl,Black Men's Research Institute,center_institute,0,other,Black Men's Research Institute,0,course_like
+142,140553,crawl,Center for Black Entrepreneurs,center_institute,0,other,Center for Black Entrepreneurs,0,
+143,166939,crawl,Department of Critical Race and Political Economy,department_unit,0,race,Critical Race and Political Economy,70,strong_token|bucket_match:race
+151,147776,crawl,African Summer Institute (AFSI),center_institute,0,other,African Summer Institute,0,
+151,147776,crawl,Black Student Success Committee,committee_admin,0,other,Black Student Success Committee,0,
+151,147776,crawl,Genocide and Human Rights Research in Africa and the Diaspora (GHRAD) Center,center_institute,0,african,Genocide and Human Rights Research in Africa and the Diaspora (GHRAD) Center,0,bucket_match:african|course_like
+157,204796,crawl,"African American and African Studies, Department of",department_unit,0,black,"African American and African Studies, Department of",100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+157,204796,crawl,Blackwell Inn and Conference Center,center_institute,0,other,Blackwell Inn and Conference Center,0,
+157,204796,crawl,Center for African Studies,center_institute,0,african,Center for African Studies,90,bare_studies_name|anchor_phrase|bucket_match:african
+157,204796,crawl,"Conference Center, Blackwell Inn and",center_institute,0,other,"Conference Center, Blackwell Inn and",0,
+157,204796,crawl,Kirwan Institute for the Study of Race and Ethnicity,center_institute,0,ethnic,Kirwan Institute for the Study of Race and Ethnicity,10,bucket_match:ethnic
+159,204909,crawl,"Africana, Gender, and Identity Studies Department",department_unit,0,africana,"Africana, Gender, and Identity Studies Department",70,strong_token|bucket_match:africana
+166,186131,crawl,Department of African American Studies,department_unit,0,black,African American Studies,100,strong_token|bare_studies_name|bucket_match:black
+180,179159,crawl,Department of African American Studies,department_unit,0,black,African American Studies,100,strong_token|bare_studies_name|bucket_match:black
+186,122597,crawl,Africana Studies Department,department_unit,0,africana,Africana Studies Department,90,strong_token|anchor_phrase|bucket_match:africana
+193,167783,crawl,Africana Studies Major: Available Minor: Available Accelerated (UG + Grad): Concentration: Degrees Awarded Minor Formats: On Campus,center_institute,0,africana,Africana Studies Major: Available Minor: Available Accelerated (UG + Grad): Concentration: Degrees Awarded Minor Formats: On Campus,90,strong_token|anchor_phrase|bucket_match:africana
+194,167835,crawl,Contact Department of Africana Studies,department_unit,0,africana,Contact Department of Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+197,149222,crawl,Africana Studies Department,department_unit,0,africana,Africana Studies Department,90,strong_token|anchor_phrase|bucket_match:africana
+197,149222,crawl,Africana Studies Department 618-453-7147,department_unit,0,africana,Africana Studies Department 618-453-7147,90,strong_token|anchor_phrase|bucket_match:africana
+197,149222,crawl,Black Resource Center,center_institute,0,other,Black Resource Center,0,
+197,149222,crawl,Black Resource Center and Services,center_institute,0,other,Black Resource Center and Services,0,
+200,141060,crawl,National Council of Black Studies (NCBS),committee_admin,0,black,National Council of Black Studies,30,anchor_phrase|bucket_match:black
+215,196149,crawl,Africana Studies Department,department_unit,0,africana,Africana Studies Department,90,strong_token|anchor_phrase|bucket_match:africana
+217,216287,crawl,"""A Historic Celebration"": Black Studies Becomes a Department and Major",department_unit,0,black,"""A Historic Celebration"": Black Studies Becomes a Department and",100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+217,216287,crawl,"""A Historic Celebration"": Black Studies Becomes a Department and Major Category: Meaningful Opportunities",department_unit,0,black,Black Studies,100,strong_token|anchor_phrase|compound_anchor|bucket_match:black
+217,216287,crawl,Black Studies Department Pages,department_unit,0,black,Black Studies Department Pages,90,strong_token|anchor_phrase|bucket_match:black
+217,216287,crawl,University of Pennsylvania African Studies Center,center_institute,0,african,University of Pennsylvania African Studies Center,30,anchor_phrase|bucket_match:african
+219,216339,crawl,Africology and African American Studies Department,department_unit,0,black,Africology and African American Studies Department,70,strong_token|bucket_match:black
+219,216339,crawl,National Council for Black Studies,committee_admin,0,black,National Council for Black Studies,90,bare_studies_name|anchor_phrase|bucket_match:black
+219,216339,crawl,"National Council for Black Studies , and",committee_admin,0,black,"National Council for Black Studies , and",30,anchor_phrase|bucket_match:black
+230,228778,crawl,Department of African and African Diaspora Studies,department_unit,0,african,African and African Diaspora Studies,70,strong_token|bucket_match:african
+234,160755,crawl,Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+240,106397,crawl,Mack-Blackwell Rural Transportation Center,center_institute,0,other,Mack-Blackwell Rural Transportation Center,0,
+240,106397,crawl,"Transportation Center, Mack-Blackwell",center_institute,0,other,"Transportation Center, Mack-Blackwell",0,
+245,110671,crawl,Ethnic Studies Department,department_unit,0,ethnic,Ethnic Studies Department,90,strong_token|anchor_phrase|bucket_match:ethnic
+250,144050,crawl,"African Studies, Committee on",committee_admin,0,african,"African Studies, Committee on",30,anchor_phrase|bucket_match:african
+250,144050,crawl,"Institute for the Study of Ancient Cultures, West Asia and North Africa",center_institute,0,mena,"Institute for the Study of Ancient Cultures, West Asia and North Africa",10,bucket_match:mena
+250,144050,crawl,"Institute for the Study of Ancient Cultures, West Asia and North Africa (ISAC)",center_institute,0,mena,"Institute for the Study of Ancient Cultures, West Asia and North Africa",0,bucket_match:mena|sentence_like
+250,144050,crawl,"Race, Diaspora, and Indigeneity, Department of",department_unit,0,race,"Race, Diaspora, and Indigeneity, Department of",70,strong_token|bucket_match:race
+250,144050,crawl,"Race, Politics, and Culture, Center for the Study of",center_institute,0,race,"Race, Politics, and Culture, Center for the Study of",10,bucket_match:race
+258,134130,crawl,"African Studies, Center For",center_institute,0,african,"African Studies, Center For",30,anchor_phrase|bucket_match:african
+260,141574,crawl,Department of Ethnic Studies,department_unit,0,ethnic,Ethnic Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:ethnic
+260,141574,crawl,"Ethnic Studies, Department of",department_unit,0,ethnic,"Ethnic Studies, Department of",90,strong_token|anchor_phrase|bucket_match:ethnic
+261,225511,crawl,UH Celebrates First African American Studies Department Graduate,department_unit,0,black,UH Celebrates First African American Studies Department Graduate,70,strong_token|bucket_match:black
+266,155317,crawl,Department of African and African-American Studies,department_unit,0,black,African and African-American Studies,100,strong_token|bare_studies_name|bucket_match:black
+266,155317,crawl,Kansas African Studies Center,center_institute,0,african,Kansas African Studies Center,30,anchor_phrase|bucket_match:african
+266,155317,crawl,the Kansas African Studies Center,center_institute,0,african,Kansas African Studies Center,30,anchor_phrase|bucket_match:african
+272,166638,crawl,Africana Studies Department,department_unit,0,africana,Africana Studies Department,90,strong_token|anchor_phrase|bucket_match:africana
+272,166638,crawl,Africana Studies Department Fact Sheet,department_unit,0,africana,Africana Studies Department Fact Sheet,90,strong_token|anchor_phrase|bucket_match:africana
+272,166638,crawl,Explore the Department of Africana Studies,department_unit,0,africana,Explore the Department of Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+272,166638,crawl,the Africana Studies Department,department_unit,0,africana,Africana Studies Department,90,strong_token|anchor_phrase|bucket_match:africana
+272,166638,crawl,the Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+289,187985,crawl,Institute for the Stdy of Race and Soc Jus,center_institute,0,race,Institute for the Stdy of Race and Soc Jus,10,bucket_match:race
+291,199120,crawl,African Studies Center,center_institute,0,african,African Studies Center,30,anchor_phrase|bucket_match:african
+291,199120,crawl,Sonja Haynes Stone Center for Black Culture and History,center_institute,0,other,Sonja Haynes Stone Center for Black Culture and History,0,
+298,209551,crawl,"Ethnic Studies, Department of (College of Arts and Sciences)",department_unit,0,ethnic,"Ethnic Studies, Department of",100,strong_token|anchor_phrase|compound_anchor|bucket_match:ethnic
+301,236328,crawl,Race and Pedagogy Institute,center_institute,0,race,Race and Pedagogy Institute,10,bucket_match:race
+318,240329,crawl,"A program within the Department of Race, Gender and Sexuality Studies",department_unit,0,race,"A program within the Department of Race, Gender and Sexuality Studies",70,strong_token|bucket_match:race
+318,240329,crawl,"Race, Gender and Sexuality Studies Department",department_unit,0,race,"Race, Gender and Sexuality Studies Department",70,strong_token|bucket_match:race
+322,240374,crawl,Center for Ethnic Studies,center_institute,0,ethnic,Center for Ethnic Studies,90,bare_studies_name|anchor_phrase|bucket_match:ethnic
+327,221999,crawl,Bishop Joseph Johnson Black Cultural Center,center_institute,0,other,Bishop Joseph Johnson Black Cultural Center,0,
+327,221999,crawl,Black Church Studies - Kelly Miller Smith Institute on,center_institute,0,other,Black Church Studies - Kelly Miller Smith Institute on,0,profile_dash
+327,221999,crawl,Kelly Miller Smith Institute on Black Church Studies,center_institute,0,other,Kelly Miller Smith Institute on Black Church Studies,0,
+333,199847,crawl,"Research Engagement and Collaboration in African American Life, Center for",center_institute,0,black,"Research Engagement and Collaboration in African American Life, Center for",0,bucket_match:black|course_like
+337,179867,crawl,Africa Initiative awards new round of pilot grants,center_institute,0,african,Africa Initiative awards new round of pilot grants,10,bucket_match:african
+337,179867,crawl,"Center for the Study of Race, Ethnicity and Equity",center_institute,0,ethnic,"Center for the Study of Race, Ethnicity and Equity",10,bucket_match:ethnic
+337,179867,crawl,Race and Ethnicity Cluster Hire Initiative,center_institute,0,ethnic,Race and Ethnicity Cluster Hire Initiative,10,bucket_match:ethnic
+337,179867,crawl,Race and Ethnicity Cluster Hire Initiative - 2nd Round,center_institute,0,ethnic,Race and Ethnicity Cluster Hire Initiative - 2nd Round,0,bucket_match:ethnic|profile_dash
+338,172644,crawl,Researching with the Department of African American (AFAM) Studies,department_unit,0,black,Researching with the Department of African American (AFAM) Studies,70,strong_token|bucket_match:black
+339,168218,crawl,Department of Africana Studies,department_unit,0,africana,Africana Studies,100,strong_token|bare_studies_name|anchor_phrase|bucket_match:africana
+342,149772,crawl,"Race, Religion, Gender, and Multidisciplinary Studies Department",department_unit,0,race,"Race, Religion, Gender, and Multidisciplinary Studies Department",70,strong_token|bucket_match:race

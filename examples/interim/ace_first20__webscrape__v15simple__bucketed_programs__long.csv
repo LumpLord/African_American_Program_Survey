@@ -1,0 +1,2 @@
+row_index,unitid,source,raw_title,title_kind,is_program_title,bucket,canonical_title,program_conf,program_conf_reason
+17,188429,crawl,"African, Black and Caribbean Studies",program,1,black,"African, Black and Caribbean Studies",70,bare_studies_name|bucket_match:black

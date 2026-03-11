@@ -1,0 +1,626 @@
+unitid,bucket,canonical_title,sources,program_conf_max,has_both_sources,program_conf_final
+100751,black,African-American/Black Studies,cv,100,False,100
+102094,black,African American Studies,crawl,70,False,70
+104151,black,African-American/Black Studies,cv,100,False,100
+104179,africana,Africana Studies,crawl,90,False,90
+104179,black,African-American/Black Studies,cv,100,False,100
+104179,mena,Middle Eastern and North African Studies,crawl,100,False,100
+106397,black,African and African American Studies,crawl,100,False,100
+110422,ethnic,Comparative Ethnic Studies,crawl,70,False,70
+110422,ethnic,Ethnic Studies,crawl,90,False,90
+110422,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110422,race,"Gender, Race, Culture, Science and Technology",crawl,70,False,70
+110495,ethnic,Ethnic Studies,crawl,90,False,90
+110495,ethnic,Ethnic Studies (Concentration),crawl,100,False,100
+110495,ethnic,Ethnic Studies (Major),crawl,100,False,100
+110495,ethnic,Ethnic Studies (Minor),crawl,100,False,100
+110529,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110538,african,African Studies,crawl,90,False,90
+110538,black,African American Studies,crawl,70,False,70
+110538,ethnic,"Race, Ethnicity, and Sovereignty GE",crawl,70,False,70
+110547,africana,Africana Studies,crawl,90,False,90
+110565,black,African American Studies,crawl,70,False,70
+110565,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110574,ethnic,Ethnic Studies,crawl,90,False,90
+110583,africana,Africana Studies,crawl,90,False,90
+110592,black,African-American/Black Studies,cv,100,False,100
+110592,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110608,african,"Africa, Interdisciplinary Studies",crawl,70,False,70
+110608,africana,Africana Studies,crawl,90,False,90
+110608,black,African-American/Black Studies,cv,100,False,100
+110608,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110617,african,African Studies,crawl,90,False,90
+110617,african,Certificate in African Studies,crawl,100,False,100
+110617,african,Minor in African Studies,crawl,100,False,100
+110617,africana,Certificate in Pan African Studies,crawl,100,False,100
+110617,africana,Ethnic Studies (Pan African Studies),crawl,100,False,100
+110617,africana,Minor in Pan African Studies,crawl,100,False,100
+110617,africana,Pan African Studies,crawl,90,False,90
+110617,black,African American Studies,crawl,70,False,70
+110617,ethnic,"Education, Equity and Social Justice (Ethnicity and Race)",crawl,100,False,100
+110617,ethnic,Ethnic Studies,crawl,100,False,100
+110617,ethnic,Ethnic Studies (Asian American Studies),crawl,100,False,100
+110617,ethnic,Ethnic Studies (Chicanx/​Latinx Studies),crawl,100,False,100
+110617,ethnic,Ethnic Studies (Native-​American Studies),crawl,100,False,100
+110617,ethnic,General Ethnic Studies,crawl,90,False,90
+110617,ethnic,Minor in Ethnic Studies,crawl,100,False,100
+110635,black,African-American/Black Studies,cv,100,False,100
+110635,ethnic,Ethnic Studies,cv,100,False,100
+110644,black,African American and African Studies,crawl,100,False,100
+110644,black,African-American/Black Studies,cv,100,False,100
+110644,ethnic,Ethnic and Area Studies,crawl,70,False,70
+110644,ethnic,Ethnic studies,crawl,90,False,90
+110644,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110653,black,African-American/Black Studies,cv,100,False,100
+110653,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110662,black,African-American/Black Studies,cv,100,False,100
+110662,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110671,black,African American Studies,crawl,70,False,70
+110671,black,African-American/Black Studies,cv,100,False,100
+110671,ethnic,Ethnic Studies,crawl,90,False,90
+110671,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110680,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+110705,black,African-American/Black Studies,cv,100,False,100
+110705,black,Black Studies,crawl,90,False,90
+115755,ethnic,Comparative Ethnic Studies Minor,crawl,90,False,90
+115755,ethnic,Ethnic American Literatures Minor,crawl,70,False,70
+115755,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+115755,race,"Critical Race, Gender and Sexuality Studies",crawl,70,False,70
+117946,black,African American Studies,crawl,70,False,70
+117946,black,African-American/Black Studies,cv,100,False,100
+120883,ethnic,Ethnic Studies,crawl,90,False,90
+122409,black,African-American/Black Studies,cv,100,False,100
+122409,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+122597,african,Minor in African Studies,crawl,100,False,100
+122597,africana,Africana Studies,crawl,100,False,100
+122597,africana,Africana Studies BA + Ethnic Studies MA SF State Scholars Roadmap,crawl,70,False,70
+122597,africana,Minor in Africana Studies,crawl,100,False,100
+122597,ethnic,Asian American Studies BA + Ethnic Studies MA SF State Scholars Roadmap,crawl,70,False,70
+122597,ethnic,Certificate in Ethnic Studies,crawl,100,False,100
+122597,ethnic,College of Ethnic Studies,crawl,90,False,90
+122597,ethnic,Ethnic Studies,crawl,100,False,100
+122597,ethnic,Ethnic Studies Empowerment Certificate,crawl,90,False,90
+122597,ethnic,Latina/​Latino Studies BA + Ethnic Studies MA SF State Scholars Roadmap,crawl,70,False,70
+122597,race,Critical Mixed Race Studies,crawl,70,False,70
+122597,race,Minor in Race and Resistance Studies,crawl,100,False,100
+122597,race,Race and Resistance Studies,crawl,70,False,70
+122612,african,African Studies,crawl,90,False,90
+122612,black,African American Studies,crawl,70,False,70
+122755,african,African Studies,crawl,90,False,90
+122755,black,African American Studies,crawl,70,False,70
+122755,black,African-American/Black Studies,cv,100,False,100
+122755,race,Race and Ethnic Studies,crawl,100,False,100
+122931,ethnic,Ethnic Studies,cv,100,False,100
+123165,black,African-American/Black Studies,cv,100,False,100
+123554,black,African-American/Black Studies,cv,100,False,100
+123554,ethnic,Ethnic Studies,cv,100,False,100
+123554,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+123572,black,African-American/Black Studies,cv,100,False,100
+123572,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+126562,ethnic,Ethnic Studies,crawl,100,False,100
+126614,ethnic,Ethnic Studies,cv,100,False,100
+126678,african,African Studies,crawl,90,False,90
+126678,black,African-American Studies,crawl,70,False,70
+126678,ethnic,Ethnic Studies,cv,100,False,100
+126678,ethnic,"Race, Ethnicity, and Migration Studies",crawl,70,False,70
+126818,ethnic,Ethnic Studies,crawl,100,False,100
+126818,ethnic,"Ethnic Studies, Plan A",crawl,90,False,90
+126818,ethnic,"Ethnic Studies, Plan B",crawl,90,False,90
+126818,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+126818,race,"Global Race, Power, and Resistance Concentration",crawl,70,False,70
+127565,africana,Africana Studies,crawl,90,False,90
+127565,africana,Africana Studies Degree,crawl,90,False,90
+127565,africana,"Africana Studies Major, B.A.",crawl,100,False,100
+127565,africana,Africana Studies Minor,crawl,90,False,90
+127565,africana,Explore Africana Studies Degree,crawl,90,False,90
+127741,africana,Africana Studies,crawl,90,False,90
+127741,africana,Foundations of Africana Studies,crawl,90,False,90
+127741,black,African-American/Black Studies,cv,100,False,100
+128771,african,African Studies,crawl,90,False,90
+128771,african,Concentration in African Studies,crawl,100,False,100
+128771,black,African-American Studies,crawl,70,False,70
+128771,race,Racial Justice Certificate,crawl,70,False,70
+129020,african,African Studies,crawl,90,False,90
+129020,africana,Africana Studies,crawl,90,False,90
+129020,black,African-American/Black Studies,cv,100,False,100
+129020,ethnic,"Intersectional Indigeneity, Race, Ethnicity, and Politics",crawl,70,False,70
+129242,black,Black Studies,crawl,90,False,90
+130493,africana,Link to Minor in Africana Studies,crawl,100,False,100
+130493,ethnic,Link to Minor in Ethnic Studies,crawl,100,False,100
+130493,race,Link to Minor in Racial and Intersectional Justice Studies,crawl,70,False,70
+130794,african,African Studies,crawl|cv,100,True,100
+130794,black,African-American/Black Studies,cv,100,False,100
+130794,black,Black Studies,crawl,90,False,90
+130794,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+130943,africana,Africana Studies,crawl,90,False,90
+130943,black,African-American/Black Studies,cv,100,False,100
+131469,african,African Studies,cv,100,False,100
+131520,african,African Studies,crawl|cv,100,True,100
+131520,black,African-American/Black Studies,cv,100,False,100
+131520,black,Afro-American Studies,crawl,70,False,70
+134097,black,African-American/Black Studies,cv,100,False,100
+134130,black,African American Studies,crawl,70,False,70
+134130,black,African-American/Black Studies,cv,100,False,100
+135726,africana,Africana Studies,crawl,90,False,90
+136950,black,African and African American Studies,crawl,100,False,100
+136950,black,Dive into African and African-American Studies,crawl,70,False,70
+136950,mena,Middle Eastern and North African Studies,crawl,100,False,100
+137351,africana,Africana Studies,crawl,90,False,90
+137351,africana,Africana Studies B.A.,crawl,70,False,70
+137351,africana,"Interdisciplinary Social Sciences B.A., with Africana Studies Concentration",crawl,100,False,100
+138600,african,African Studies,cv,100,False,100
+138947,africana,Africana Women's Studies,crawl,70,False,70
+138947,black,African American Studies,crawl,70,False,70
+139658,african,African Studies,crawl|cv,100,True,100
+139658,black,African American Studies,crawl,70,False,70
+139658,black,African-American/Black Studies,cv,100,False,100
+139940,africana,"Africana Studies, B.A.",crawl,70,False,70
+139940,black,African-American/Black Studies,cv,100,False,100
+139940,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+139959,black,African-American/Black Studies,cv,100,False,100
+140447,black,African-American/Black Studies,cv,100,False,100
+140553,black,African-American/Black Studies,cv,100,False,100
+141060,african,African Diaspora Studies,crawl,70,False,70
+141264,africana,Africana Studies,crawl,90,False,90
+141264,africana,Africana Studies Certificate,crawl,90,False,90
+141264,africana,Minor in Africana Studies,crawl,100,False,100
+141574,ethnic,Esteem for Ethnic Studies,crawl,90,False,90
+141574,ethnic,"Ethnic Studies, BA/Educational Administration, MEd",crawl,70,False,70
+141574,ethnic,"Ethnic Studies, BA/Educational Foundations, MEd",crawl,70,False,70
+141574,ethnic,"Ethnic Studies, Certificate",crawl,90,False,90
+141574,ethnic,Give a Gift to Ethnic Studies,crawl,90,False,90
+142115,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+143084,african,African Studies,cv,100,False,100
+143084,africana,Africana Studies,crawl,90,False,90
+143358,black,African American Studies,crawl,70,False,70
+144050,african,African Studies,cv,100,False,100
+144050,black,African American Studies,crawl,70,False,70
+144050,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+144740,black,African-American/Black Studies,cv,100,False,100
+144892,africana,Africana Studies,crawl,90,False,90
+144962,race,Race and Ethnic Studies,crawl,100,False,100
+145600,black,African-American/Black Studies,cv,100,False,100
+145600,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+145637,black,African-American/Black Studies,cv,100,False,100
+145637,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+146427,black,African-American/Black Studies,cv,100,False,100
+146481,black,African American Studies,crawl,70,False,70
+146481,black,African-American/Black Studies,cv,100,False,100
+146612,black,African American Studies,crawl,70,False,70
+146612,ethnic,Ethnic and Cultural Studies,crawl,70,False,70
+146719,african,African Studies,crawl,100,False,100
+146719,black,African-American/Black Studies,cv,100,False,100
+146719,ethnic,Race and Ethnicity Interdisciplinary,crawl,70,False,70
+147013,ethnic,Ethnic Studies,crawl,90,False,90
+147767,african,African Studies,cv,100,False,100
+147767,black,African-American/Black Studies,cv,100,False,100
+147767,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+147776,black,African and African American Studies,crawl,100,False,100
+148487,black,African-American/Black Studies,cv,100,False,100
+148627,black,African American Studies,crawl,70,False,70
+148627,black,African-American Studies,crawl,70,False,70
+148627,black,African-American Studies Undergraduate,crawl,70,False,70
+149222,africana,Africana Studies,crawl,100,False,100
+149222,black,African-American/Black Studies,cv,100,False,100
+149231,african,African Studies,crawl,90,False,90
+149231,black,Black Studies,crawl,90,False,90
+150400,africana,Africana Studies,crawl,90,False,90
+150400,africana,Africana Studies Major,crawl,90,False,90
+150400,black,African-American/Black Studies,cv,100,False,100
+150455,black,African and African American Studies,crawl,100,False,100
+150455,black,African-American/Black Studies,cv,100,False,100
+151324,black,African and African American Studies,crawl,100,False,100
+151324,black,African-American/Black Studies,cv,100,False,100
+151351,black,African-American/Black Studies,cv,100,False,100
+151351,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+152080,africana,Africana Studies,crawl,90,False,90
+152080,black,African-American/Black Studies,cv,100,False,100
+152080,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+152673,black,Black Studies,crawl,90,False,90
+153144,black,African American Studies,crawl,70,False,70
+153162,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+153603,black,African and African American Studies,crawl,100,False,100
+153658,black,African American Studies,crawl,70,False,70
+153658,black,"African American Studies, Graduate Certificate",crawl,70,False,70
+153658,black,"African American Studies, Graduate Certificate African American Studies, Graduate Certificate Graduate Certificates",crawl,70,False,70
+153658,black,"African American Studies, Minor African American Studies, Minor Undergraduate Minors",crawl,70,False,70
+153658,black,African-American/Black Studies,cv,100,False,100
+153658,black,Graduate Certificate in African American Studies,crawl,100,False,100
+153834,africana,Africana Studies,crawl,90,False,90
+153834,black,African-American/Black Studies,cv,100,False,100
+155317,african,African Studies,cv,100,False,100
+155317,african,Graduate Certificate in African Studies,crawl,100,False,100
+155317,black,African and African-American Studies,crawl,100,False,100
+155317,black,BGS in African and African-American Studies,crawl,70,False,70
+155317,black,Dual Degree: MA in Museum Studies and African and African-American Studies,crawl,100,False,100
+155317,black,Graduate Certificate in African-American Studies,crawl,100,False,100
+155317,black,Minor in African and African-American Studies,crawl,100,False,100
+155317,ethnic,Undergraduate Certificate in Race and Ethnicity in the U.S.,crawl,70,False,70
+155399,ethnic,Ethnic Studies,cv,100,False,100
+156295,black,African and African American Studies,crawl,100,False,100
+156295,black,African-American/Black Studies,cv,100,False,100
+156620,black,African and African American Studies,crawl,100,False,100
+157085,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+157289,africana,Pan-African Studies,crawl,90,False,90
+157289,black,African-American/Black Studies,cv,100,False,100
+157951,africana,Africana American Studies,crawl,70,False,70
+157951,africana,Africana Studies,crawl,90,False,90
+157951,black,African American Studies,crawl,70,False,70
+157951,black,Degrees and Programs African American Studies,crawl,70,False,70
+159391,black,African and African American Studies,crawl,100,False,100
+160755,africana,Africana Studies,crawl,100,False,100
+160755,africana,"Studio Art with a concentration in Africana Studies, MFA",crawl,90,False,90
+160977,black,African-American/Black Studies,cv,100,False,100
+161004,african,African Studies,cv,100,False,100
+161004,africana,Africana Studies,crawl,90,False,90
+161004,mena,Middle Eastern and North African Studies,crawl,100,False,100
+161004,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+162654,africana,Africana Studies,crawl,90,False,90
+163268,africana,Africana Studies,crawl,90,False,90
+163268,black,African-American/Black Studies,cv,100,False,100
+163286,black,African-American/Black Studies,cv,100,False,100
+164216,black,Black Studies,crawl,90,False,90
+164465,african,African Studies Certificate,crawl,90,False,90
+164465,black,African-American/Black Studies,cv,100,False,100
+164465,black,Black Studies,crawl,90,False,90
+164924,african,African and African Diaspora Studies,crawl,70,False,70
+164988,african,African Language,crawl,70,False,70
+164988,african,African Studies,crawl,100,False,100
+164988,african,Minor in African Languages and Literatures,crawl,70,False,70
+164988,african,Minor in African Studies,crawl,100,False,100
+164988,black,African American and Black Diaspora Studies,crawl,100,False,100
+164988,black,African American and Black Diaspora Studies BA in African American and Black Diaspora Studies Minor in African American and Black Diaspora Studies,crawl,100,False,100
+164988,black,Minor in African American and Black Diaspora Studies,crawl,70,False,70
+164988,mena,Middle East and North Africa Studies,crawl,70,False,70
+165015,black,African and African American Studies,crawl,100,False,100
+165015,black,African-American/Black Studies,cv,100,False,100
+166027,black,African and African American Studies,crawl,100,False,100
+166027,black,African-American/Black Studies,cv,100,False,100
+166027,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+166638,africana,Africana Studies,crawl,90,False,90
+166939,african,African Studies,crawl,90,False,90
+166939,africana,Africana Studies,crawl,90,False,90
+166939,africana,Africana Studies Major Pathway/Minor,crawl,90,False,90
+166939,black,African-American/Black Studies,cv,100,False,100
+166939,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+167783,african,African Studies,cv,100,False,100
+167783,africana,Africana Studies,crawl,90,False,90
+167835,african,African Studies,crawl,90,False,90
+167835,african,Contact African Studies,crawl,90,False,90
+167835,africana,Africana Studies,crawl,90,False,90
+167835,black,African-American/Black Studies,cv,100,False,100
+167987,black,Black Studies,crawl,90,False,90
+168148,black,African-American/Black Studies,cv,100,False,100
+168218,africana,Africana,crawl,70,False,70
+168218,africana,Africana Studies,crawl,90,False,90
+168218,black,African-American/Black Studies,cv,100,False,100
+168218,ethnic,Comparative race and ethnicity,crawl,70,False,70
+168546,ethnic,Ethnic Studies,crawl,100,False,100
+169080,africana,Africana Studies,crawl,90,False,90
+169798,black,African-American/Black Studies,cv,100,False,100
+170082,africana,Africana Studies,crawl,90,False,90
+172644,black,African American Studies,crawl,100,False,100
+172644,black,African American studies bachelor's degree career outlook,crawl,70,False,70
+172644,black,African-American/Black Studies,cv,100,False,100
+172644,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+172699,black,African American and African Studies,crawl,100,False,100
+172699,black,African-American/Black Studies,cv,100,False,100
+173258,africana,Africana Studies,crawl,90,False,90
+173258,africana,Africana Studies major,crawl,90,False,90
+173258,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+173902,african,African Studies,crawl,90,False,90
+173920,ethnic,Ethnic Studies,crawl,90,False,90
+174020,ethnic,Ethnic Studies,crawl,90,False,90
+174020,ethnic,"Ethnic, Gender, Historical, and Philosophical Studies",crawl,70,False,70
+174066,black,African-American/Black Studies,cv,100,False,100
+174844,ethnic,Ethnic Studies,cv,100,False,100
+174844,race,RACE Major and Concentration,crawl,70,False,70
+174844,race,Race and Ethnic Studies,crawl,100,False,100
+176017,black,African-American/Black Studies,cv,100,False,100
+178396,black,Black Studies,crawl,90,False,90
+178402,ethnic,"Race, Ethnic, and Gender Studies",crawl,70,False,70
+179159,black,African American Studies,crawl,70,False,70
+179159,black,African-American/Black Studies,cv,100,False,100
+179867,black,African-American/Black Studies,cv,100,False,100
+180489,black,African-American/Black Studies,cv,100,False,100
+181002,african,African Studies,crawl,90,False,90
+181002,african,African Studies (Minor),crawl,90,False,90
+181002,black,African American and Black Diasporic Studies,crawl,70,False,70
+181002,black,African American and Black Diasporic Studies (Minor),crawl,70,False,70
+181215,ethnic,Ethnic Studies Minor Online On Campus,crawl,90,False,90
+181394,black,African-American/Black Studies,cv,100,False,100
+181394,black,Black Studies,crawl,90,False,90
+181394,black,Black Studies Graduate,crawl,90,False,90
+181394,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+181464,black,African and African-American Studies,crawl,70,False,70
+181464,ethnic,Ethnic Studies,crawl,90,False,90
+181464,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+182281,black,African American and African Diaspora Studies,crawl,70,False,70
+182281,black,African-American/Black Studies,cv,100,False,100
+182281,black,Concentration in African American and African Diaspora Studies,crawl,70,False,70
+182281,black,Minor in African American and African Diaspora Studies,crawl,70,False,70
+182281,ethnic,Ethnic Studies,crawl,100,False,100
+182290,race,"Gender, Race and Identity",crawl,70,False,70
+182670,black,African and African American Studies,crawl,100,False,100
+182670,black,African-American/Black Studies,cv,100,False,100
+184348,africana,Africana Studies,crawl,90,False,90
+184348,black,African-American/Black Studies,cv,100,False,100
+184782,african,African Studies,cv,100,False,100
+185129,africana,"Gender, Africana, and Latin American Studies",crawl,70,False,70
+185129,black,African and African American Studies,crawl,100,False,100
+185129,black,African and African-American Studies,crawl,70,False,70
+185129,ethnic,Ethnic and Immigration Studies,crawl,70,False,70
+186131,african,African Studies,crawl,90,False,90
+186131,african,Program in African Studies,crawl,100,False,100
+186131,black,African American Studies,crawl,70,False,70
+186131,black,African-American/Black Studies,cv,100,False,100
+186201,africana,Africana Studies,crawl,90,False,90
+186201,black,African-American/Black Studies,cv,100,False,100
+186201,ethnic,Ethnicity and Race Studies,crawl,70,False,70
+186371,black,African-American/Black Studies,cv,100,False,100
+186380,africana,Africana Studies,crawl,90,False,90
+186380,black,African-American/Black Studies,cv,100,False,100
+186399,africana,Africana Studies,crawl,90,False,90
+186399,black,African-American/Black Studies,cv,100,False,100
+186584,africana,Africana Studies,crawl,90,False,90
+186584,africana,Africana Studies Program Minor in Africana Studies,crawl,90,False,90
+186584,africana,B.A in Africana Studies,crawl,100,False,100
+186584,africana,BA Africana Studies,crawl,100,False,100
+186584,africana,Minor in Africana Studies,crawl,100,False,100
+186584,black,African-American/Black Studies,cv,100,False,100
+186584,mena,Middle Eastern and North African Studies,crawl,100,False,100
+186876,africana,Africana Studies,crawl,100,False,100
+186876,africana,Minor in Africana Studies,crawl,100,False,100
+186876,africana,"Rhea Boyd , Pediatrician - BA in Africana Studies, University of Notre Dame",crawl,100,False,100
+186876,black,Africana Studies,crawl,100,False,100
+186876,black,"Angela Bassett , Actress - BA in African American Studies, Yale University",crawl,100,False,100
+186876,black,"Ava DuVernay , Director - BA in English literature and African-American studies, UCLA",crawl,100,False,100
+186876,black,Black Studies,crawl,100,False,100
+186876,black,"Gloria Naylor , Novelist - MA in African American Studies, Yale University",crawl,100,False,100
+186876,black,"Issa Rae , Actress and Writer - BA in African and African-American Studies, Stanford University",crawl,100,False,100
+186876,black,"Mae Jemison , Engineer, Astronaut - BA in African and Afro-American Studies, Stanford University",crawl,100,False,100
+186876,black,"Michelle Obama , Former FLOTUS - BA in Sociology and minor in African-American studies, Princeton University",crawl,100,False,100
+187134,african,African Studies,crawl,90,False,90
+187134,black,African American Studies,crawl,70,False,70
+187134,black,African American Studies Major/Specialization Minor Teacher Preparation,crawl,70,False,70
+187134,black,African-American/Black Studies,cv,100,False,100
+187134,black,Inclusive Education (BS) and African American Studies Dual,crawl,100,False,100
+187985,africana,Africana Studies,crawl,90,False,90
+188429,black,"African, Black and Caribbean Studies",crawl,70,False,70
+189097,african,African Studies,cv,100,False,100
+189097,africana,Africana Studies,crawl,90,False,90
+190099,africana,Africana And Latin American Studies,crawl,70,False,70
+190099,africana,Africana and Latin American Studies,crawl,70,False,70
+190415,africana,Africana Studies,crawl,90,False,90
+190415,black,African-American/Black Studies,cv,100,False,100
+190415,black,Black studies,crawl,90,False,90
+190512,black,Black and Latino Studies,crawl,70,False,70
+190549,africana,Africana Studies,crawl,90,False,90
+190549,africana,"Africana Studies, B.A.",crawl,70,False,70
+190549,black,African-American/Black Studies,cv,100,False,100
+190549,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+190558,african,African and African Diaspora Studies,crawl,70,False,70
+190567,black,Major in Black Studies,crawl,100,False,100
+190567,black,Minor in Black Studies,crawl,100,False,100
+190594,africana,Africana and Puerto Rican/Latino Studies,crawl,70,False,70
+190594,africana,"Africana, Puerto Rican and Latino Studies",crawl,70,False,70
+190637,africana,AFRICANA STUDIES,crawl,90,False,90
+190637,africana,Africana Studies,crawl,90,False,90
+190637,africana,BA Africana Studies,crawl,100,False,100
+190655,black,Black Visual Cultures -,crawl,70,False,70
+190655,black,Minor in Black Visual Cultures,crawl,70,False,70
+190664,africana,Africana Studies,crawl,90,False,90
+190664,black,"Africana Studies (BA) with a concentration in Africa, Caribbean, or African American Studies.",crawl,100,False,100
+190664,black,"Bachelor of Arts (BA), with a concentration in Africa, Caribbean, or African American Studies",crawl,100,False,100
+191241,black,African and African American Studies,crawl,100,False,100
+191241,black,African-American/Black Studies,cv,100,False,100
+191515,africana,Africana Studies,crawl,90,False,90
+191515,black,African-American/Black Studies,cv,100,False,100
+191630,african,African Studies,cv,100,False,100
+191630,africana,Africana Studies,crawl,90,False,90
+191630,africana,"Minor Africana Studies Africa, Diaspora, undecided",crawl,90,False,90
+193900,black,African-American/Black Studies,cv,100,False,100
+193900,ethnic,Ethnic Studies,cv,100,False,100
+193900,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+193973,black,Africana/Black Studies,crawl,90,False,90
+195030,black,Black Studies,crawl,90,False,90
+195216,african,African Studies,crawl,90,False,90
+195216,african,African Studies Program Type,crawl,90,False,90
+195216,black,African American Studies,crawl,70,False,70
+195216,black,African American Studies Program Type,crawl,70,False,70
+195216,black,number of majors you can choose from to pair with your African American studies,crawl,70,False,70
+195720,black,African American Studies,crawl,70,False,70
+196060,africana,Africana Studies,crawl,100,False,100
+196079,black,African-American/Black Studies,cv,100,False,100
+196088,black,8/13/25 African American Studies,crawl,70,False,70
+196097,africana,Africana Studies,crawl,90,False,90
+196121,black,African and African-American Studies,crawl,70,False,70
+196121,black,African and African-American Studies + MPH Accelerated degree,crawl,70,False,70
+196121,black,African and African-American Studies + Public Health Accelerated Degree,crawl,100,False,100
+196121,black,African and African-American Studies Major/Minor,crawl,70,False,70
+196130,africana,Africana Studies,crawl,90,False,90
+196130,africana,Africana Studies B.A.,crawl,70,False,70
+196130,black,African-American/Black Studies,cv,100,False,100
+196149,black,African American Studies,crawl,70,False,70
+196149,black,Dual Major in Adolescence Education: Social Studies and African American Studies,crawl,70,False,70
+196158,black,African American Studies,crawl,70,False,70
+196158,ethnic,Ethnic and Gender Studies,crawl,100,False,100
+196158,ethnic,Ethnic and Gender Studies B.A.,crawl,100,False,100
+196158,ethnic,Ethnic and Gender Studies Program at Fredonia,crawl,70,False,70
+196158,ethnic,Multi-Ethnic Studies,crawl,90,False,90
+196194,black,African/African-American Studies,crawl,70,False,70
+196413,black,African-American/Black Studies,cv,100,False,100
+196413,black,Black Studies,crawl,100,False,100
+196866,africana,Africana Studies,crawl,90,False,90
+197133,african,African Studies,cv,100,False,100
+197133,africana,Africana Studies,crawl,90,False,90
+198419,african,African Studies,cv,100,False,100
+198464,black,African-American/Black Studies,cv,100,False,100
+198516,black,African and African-American Studies,crawl,70,False,70
+198613,black,African and African American Studies,crawl,100,False,100
+199120,black,"African, African American and Diaspora Studies",crawl,70,False,70
+199120,black,African-American/Black Studies,cv,100,False,100
+199193,black,African-American/Black Studies,cv,100,False,100
+199847,african,African Studies,crawl,90,False,90
+199847,black,African American Studies,crawl,70,False,70
+199847,black,African American Studies Major,crawl,70,False,70
+199847,ethnic,American Ethnic Studies,crawl,90,False,90
+201441,african,African Studies,cv,100,False,100
+201441,ethnic,Ethnic Studies,crawl,90,False,90
+201441,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+201885,black,African-American/Black Studies,cv,100,False,100
+202134,black,African-American/Black Studies,cv,100,False,100
+202480,race,Race and Ethic Studies,crawl,70,False,70
+202480,race,Race and Ethnic Studies,crawl,100,False,100
+202523,black,African-American/Black Studies,cv,100,False,100
+203535,african,African Diaspora Studies,crawl,70,False,70
+203535,african,African Diaspora Studies concentration,crawl,70,False,70
+204024,black,African-American/Black Studies,cv,100,False,100
+204185,african,African Studies,cv,100,False,100
+204185,africana,Africana Studies,crawl,90,False,90
+204501,africana,Africana Studies,crawl,90,False,90
+204501,africana,Engaged Africana Studies,crawl,90,False,90
+204501,africana,More in Africana Studies,crawl,90,False,90
+204501,black,African American Music,crawl,70,False,70
+204501,black,African-American/Black Studies,cv,100,False,100
+204501,mena,Middle East and North Africa Studies,crawl,70,False,70
+204796,ethnic,Comparative Ethnic and American Studies,crawl,70,False,70
+204857,african,African Studies,crawl,90,False,90
+204857,black,African American Studies,crawl,70,False,70
+204909,africana,"Africana, Gender, and Identity Studies",crawl,70,False,70
+204909,black,African-American/Black Studies,cv,100,False,100
+206589,africana,Africana Studies,crawl,90,False,90
+206589,africana,Africana studies major makes connection with Wooster alumnus in legal field,crawl,90,False,90
+206589,black,African-American/Black Studies,cv,100,False,100
+206604,black,African and African American Studies,crawl,100,False,100
+206695,african,African Studies,cv,100,False,100
+206695,africana,Africana Studies,crawl,90,False,90
+206695,africana,Minor in Africana Studies,crawl,100,False,100
+206695,black,African-American/Black Studies,cv,100,False,100
+209056,ethnic,Ethnic Studies,crawl,90,False,90
+209056,mena,Middle East and North Africa Studies,crawl,100,False,100
+209542,ethnic,Ethnic Studies,crawl|cv,100,True,100
+209542,ethnic,Ethnic Studies Graduate,crawl,90,False,90
+209542,ethnic,Ethnic Studies Graduate Minor Minor College of Liberal Arts Graduate Corvallis MAIS,crawl,90,False,90
+209542,ethnic,Ethnic Studies Minor Minor College of Liberal Arts Undergraduate Corvallis,crawl,90,False,90
+209542,ethnic,Ethnic Studies Undergraduate,crawl,100,False,100
+209542,ethnic,"Ethnic Studies Undergraduate Major (BA, BS, HBA, HBS) Major College of Liberal Arts Undergraduate Corvallis BA, HBA BS, HBS",crawl,100,False,100
+209551,african,African studies,crawl,90,False,90
+209551,black,Black studies,crawl,90,False,90
+209551,ethnic,Ethnic Studies,cv,100,False,100
+209551,ethnic,Ethnic studies,crawl,90,False,90
+209807,black,African-American/Black Studies,cv,100,False,100
+209807,black,Black Studies,crawl,90,False,90
+210401,ethnic,Ethnic Studies,cv,100,False,100
+211273,africana,Africana Studies,crawl,90,False,90
+211273,mena,Middle Eastern and North African Studies,crawl,70,False,70
+211291,african,African Studies,crawl,100,False,100
+211291,black,Critical Black Studies,crawl,90,False,90
+211291,ethnic,Race and Ethnicity Studies,crawl,70,False,70
+212009,african,African Studies,cv,100,False,100
+212009,africana,Africana Studies,crawl,90,False,90
+212577,african,African Studies,cv,100,False,100
+212577,africana,Africana Studies,crawl,90,False,90
+212577,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+212674,africana,Africana Studies,crawl,90,False,90
+212674,black,African-American/Black Studies,cv,100,False,100
+212911,africana,Africana Studies,crawl,100,False,100
+213385,african,African Studies,cv,100,False,100
+213543,african,African Studies,cv,100,False,100
+213543,africana,Africana Studies,crawl,90,False,90
+214175,african,African Studies,cv,100,False,100
+214175,black,African-American/Black Studies,cv,100,False,100
+214175,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+215062,african,African Studies,cv,100,False,100
+215062,black,African-American/Black Studies,cv,100,False,100
+215293,black,African-American/Black Studies,cv,100,False,100
+215293,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+216287,african,African Studies,cv,100,False,100
+216287,africana,Bryn Mawr College Africana Studies,crawl,90,False,90
+216287,africana,Haverford College Africana Studies,crawl,90,False,90
+216287,africana,University of Pennsylvania Africana Studies,crawl,90,False,90
+216287,black,African-American/Black Studies,cv,100,False,100
+216287,black,Black Studies,crawl,90,False,90
+216287,black,What Can I Do with a Black Studies,crawl,90,False,90
+216287,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+216339,black,African-American/Black Studies,cv,100,False,100
+216339,black,Africology and African American Studies,crawl,70,False,70
+216524,black,Africana Studies,crawl,100,False,100
+216764,black,African American Studies,crawl,70,False,70
+216764,black,Minor in African American Studies,crawl,100,False,100
+216764,black,Minor in African/​African American Literature,crawl,70,False,70
+216764,ethnic,Minor in Ethnic Studies,crawl,100,False,100
+217156,african,African Studies,cv,100,False,100
+217156,africana,Africana Studies,crawl,90,False,90
+217156,ethnic,Ethnic Studies,crawl|cv,100,True,100
+217420,africana,Africana Studies,crawl,100,False,100
+217420,africana,Jalisa Torres: From Africana Studies Major to Housing Advocate,crawl,90,False,90
+217420,africana,Minor in Africana Studies,crawl,100,False,100
+217420,black,African-American/Black Studies,cv,100,False,100
+217484,africana,"Africana Studies, B.A.",crawl,70,False,70
+217864,black,Minor in African American Studies,crawl,100,False,100
+217882,black,African-American/Black Studies,cv,100,False,100
+218964,black,African-American Studies,crawl,70,False,70
+218973,black,African and African American Studies,crawl,100,False,100
+218973,mena,Middle Eastern and North African Studies,crawl,100,False,100
+220075,black,Black American Studies,crawl,70,False,70
+221351,africana,Africana Studies,crawl,90,False,90
+221351,africana,Major in Africana Studies,crawl,100,False,100
+221351,africana,Minor in Africana Studies,crawl,100,False,100
+221351,black,African-American/Black Studies,cv,100,False,100
+221351,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+221519,black,African and African American Studies,crawl,100,False,100
+221999,black,African-American and Diaspora Studies,crawl,70,False,70
+221999,black,African-American/Black Studies,cv,100,False,100
+225511,black,African American Studies,crawl,70,False,70
+225511,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+228723,africana,AFST -​ Africana Studies,crawl,90,False,90
+228778,african,African and African Diaspora Studies,crawl,70,False,70
+228778,ethnic,Ethnic Studies,crawl,90,False,90
+228981,ethnic,Ethnic studies,crawl,90,False,90
+231624,africana,Africana Studies,crawl,90,False,90
+231624,africana,Africana Studies Program fund,crawl,90,False,90
+231624,africana,Contact Africana Studies,crawl,90,False,90
+231624,africana,Major in Africana Studies,crawl,100,False,100
+231624,africana,Minor in Africana Studies,crawl,100,False,100
+231624,africana,Support Africana Studies,crawl,90,False,90
+232982,black,African American and African Studies,crawl,100,False,100
+232982,black,African-American/Black Studies,cv,100,False,100
+233921,ethnic,Ethnic Studies,crawl,100,False,100
+234030,black,African-American/Black Studies,cv,100,False,100
+234076,black,African American and African Studies,crawl,100,False,100
+234076,black,African-American/Black Studies,cv,100,False,100
+234207,africana,Africana Studies,crawl,90,False,90
+235097,africana,Africana Studies,crawl,90,False,90
+235097,africana,BA-Interdisciplinary Studies: Africana Studies,crawl,100,False,100
+235097,africana,Minor-Africana Studies,crawl,100,False,100
+235097,ethnic,Ethnic Studies,cv,100,False,100
+236595,black,African and African American Studies,crawl,100,False,100
+236939,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+237011,ethnic,Ethnic Studies,crawl,90,False,90
+237057,ethnic,"Indigeneity, Race and Ethnicity Studies",crawl,70,False,70
+237057,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+239017,ethnic,Ethnic Studies,crawl,90,False,90
+239017,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+240189,black,African American Studies,crawl,70,False,70
+240189,race,Race and Ethnic Studies,crawl,100,False,100
+240329,race,"Race, Gender and Sexuality Studies",crawl,70,False,70
+240374,ethnic,Ethnic Studies,crawl,90,False,90
+240444,african,African Studies,crawl,90,False,90
+240444,black,Afro-American Studies,crawl,70,False,70
+240453,african,African and African Diaspora Studies,crawl,70,False,70
+240453,african,"African and African Diaspora Studies Major , Minor , Master's , Doctoral",crawl,70,False,70
+240453,african,"African and African Diaspora Studies, BA Undergraduate Major Letters and Science",crawl,100,False,100
+240453,african,"African and African Diaspora Studies, Minor Undergraduate Letters and Science",crawl,70,False,70
+240453,black,African-American/Black Studies,cv,100,False,100
+240453,ethnic,Comparative Ethnic Studies,crawl,90,False,90
+240453,ethnic,Comparative Ethnic Studies Certificate,crawl,90,False,90
+240453,ethnic,Ethnic Studies,crawl,100,False,100
+240453,mena,Middle Eastern and North African Studies,crawl,100,False,100
+240453,race,Racial and Social Justice in Education Certificate,crawl,70,False,70
+240727,black,African-American/Black Studies,cv,100,False,100
+243744,african,African Studies,crawl,90,False,90
+243744,black,African and African American Studies,crawl,100,False,100
+243744,black,African-American/Black Studies,cv,100,False,100
+243744,minority,"Ethnic, Cultural Minority, and Gender Studies, Other",cv,100,False,100
+486840,african,African Studies,cv,100,False,100

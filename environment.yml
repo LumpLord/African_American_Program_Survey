@@ -1,0 +1,14 @@
+name: aframr-runtime
+channels:
+  - conda-forge
+dependencies:
+  - pyyaml
+  - tqdm
+  - lxml
+  - python=3.9
+  - pip
+  - numpy=2.0.2
+  - pandas=2.3.0
+  - pip:
+      - -r requirements.runtime.base.txt
+      - -r requirements.runtime.platform.txt
