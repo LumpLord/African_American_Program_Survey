@@ -19,8 +19,10 @@ This directory contains the datasets used and produced by the pipeline. It is or
   - See `interim/README.md` for the authoritative inventory and how to interpret each file.
 
 - `processed/` — **Final outputs** intended for analysis and reporting.
-  - A “current IPEDS” run (non‑2013 cohort) outputs.
-  - A “2013 cohort + comparisons” run outputs, including program bucketing details and downstream splits.
+  - `IPEDS_anti2013subset/` — outputs for the “current IPEDS” run (non‑2013 cohort).
+  - `2013subset_with_IPEDS_comps/` — outputs for the 2013 cohort + comparisons, including program bucketing details and downstream splits.
+  - `Final_annotated/` — final merged tables used to produce the curated exports (includes the full concatenated table and the manual subset with NCES profile characteristics).
+  - Curated exports for non‑technical users live in the repo root at `FINAL_annotated_data/` (see below).
   - See `processed/README.md` for what is considered final, known limitations, and recommended usage patterns.
 
 ## What’s required vs optional
@@ -31,6 +33,15 @@ This directory contains the datasets used and produced by the pipeline. It is or
 ## Notes on shipped vs re-created joins
 
 For convenience and reproducibility, this repository includes a pre-joined handoff file containing the 2013 baseline label column (`2013_program_name`) for the 2013 cohort. If you want to swap/extend the baseline list, generate your own baseline label column and join on `unitid`.
+
+## Final curated exports (recommended starting point)
+
+Most users should start with the curated, analysis-ready tables in the repo root:
+
+- `../FINAL_annotated_data/FINAL_manual_subset.csv` — **Primary table** (manual curation subset; 591 institutions). This is a renamed copy of `processed/Final_annotated/Carla_annotations__with_nces_profile_characteristics.csv`.
+- `../FINAL_annotated_data/FINAL_all_institutions.csv` — **Full table** (all institutions; 3,927 institutions). This is a renamed copy of `processed/Final_annotated/all__nces_profile_characteristics__CAT.csv`.
+
+See `../FINAL_annotated_data/README.md` for provenance, column notes, and intended usage.
 
 ## Large files and repository footprint
 

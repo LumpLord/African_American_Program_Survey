@@ -48,6 +48,15 @@ More detail: see `docs/01_overview_pipeline.md`.
 
 ---
 
+### Final annotated datasets
+
+The easiest entry point for most users is the folder `FINAL_annotated_data/`.
+
+- `FINAL_annotated_data/FINAL_manual_subset.csv` — manually curated subset (the primary end-user table).
+- `FINAL_annotated_data/FINAL_all_institutions.csv` — all institutions (full scraped/enriched table).
+
+These are renamed copies of the corresponding `data/processed/Final_annotated/` outputs. The file `FINAL_annotated_data/README.md` documents provenance and interpretation notes.
+
 ## Quickstart (10-row demo)
 
 ### 1) Create / activate environment
@@ -109,6 +118,8 @@ Outputs created (typical):
 - `examples/interim/ace_first20__webscrape__v15simple__bucketed_programs__long.csv`  
 - `examples/interim/ace_first20__webscrape__v15simple__bucketed_programs__long_programs.csv`  
 - `examples/interim/ace_first20__webscrape__v15simple__bucketed_programs__long_signals.csv`
+
+If you only need the final tables, start in `FINAL_annotated_data/`.
 
 How to interpret: `docs/04_parser_and_bucketing.md`.
 
